@@ -1,0 +1,6949 @@
+{
+ "data": [
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20241209_143000_1.pt",
+   "labels": [
+    "Machine"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20241209_143000_2.pt",
+   "labels": [
+    "Machine"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20241209_143000_3.pt",
+   "labels": [
+    "Machine"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20241209_143000_4.pt",
+   "labels": [
+    "Machine"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20241209_143000_5.pt",
+   "labels": [
+    "Machine",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20241209_143000_6.pt",
+   "labels": [
+    "Machine",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20241209_143000_7.pt",
+   "labels": [
+    "Machine"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20241209_143000_8.pt",
+   "labels": [
+    "Machine"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20241209_143000_9.pt",
+   "labels": [
+    "Machine"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20241209_143000_10.pt",
+   "labels": [
+    "Machine"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250406_191500_1.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Owl",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250406_191500_2.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Owl",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250406_191500_3.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Owl",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250406_191500_4.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Owl",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250406_191500_5.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Owl",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250406_191500_6.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Owl",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250406_191500_7.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Owl",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250406_191500_8.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Owl",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250406_191500_9.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Owl",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250406_191500_10.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Owl",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250408_110000_1.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250408_110000_2.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250408_110000_3.pt",
+   "labels": [
+    "Bird",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250408_110000_4.pt",
+   "labels": [
+    "Bird",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250408_110000_5.pt",
+   "labels": [
+    "Bird",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250408_110000_6.pt",
+   "labels": [
+    "Bird",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250408_110000_7.pt",
+   "labels": [
+    "Bird",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250408_110000_8.pt",
+   "labels": [
+    "Bird",
+    "Frog",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250408_110000_9.pt",
+   "labels": [
+    "Bird",
+    "Frog",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250408_110000_10.pt",
+   "labels": [
+    "Bird",
+    "Frog",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250516_053000_1.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250516_053000_2.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250516_053000_3.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250516_053000_4.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250516_053000_5.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250516_053000_6.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250516_053000_7.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250516_053000_8.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250516_053000_9.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250516_053000_10.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250609_113000_1.pt",
+   "labels": [
+    "Cicada",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250609_113000_2.pt",
+   "labels": [
+    "Cicada",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250609_113000_3.pt",
+   "labels": [
+    "Cicada",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250609_113000_4.pt",
+   "labels": [
+    "Cicada",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250609_113000_5.pt",
+   "labels": [
+    "Cicada",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250609_113000_6.pt",
+   "labels": [
+    "Bird",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250609_113000_7.pt",
+   "labels": [
+    "Bird",
+    "Cicada",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250609_113000_8.pt",
+   "labels": [
+    "Bird",
+    "Cicada",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250609_113000_9.pt",
+   "labels": [
+    "Bird",
+    "Cicada",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW01_20250609_113000_10.pt",
+   "labels": [
+    "Bird",
+    "Cicada",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250127_001500_1.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250127_001500_2.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250127_001500_3.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250127_001500_4.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250127_001500_5.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250127_001500_6.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250127_001500_7.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250127_001500_8.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250127_001500_9.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250127_001500_10.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250412_180000_1.pt",
+   "labels": [
+    "Aircraft"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250412_180000_2.pt",
+   "labels": [
+    "Aircraft"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250412_180000_3.pt",
+   "labels": [
+    "Aircraft",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250412_180000_4.pt",
+   "labels": [
+    "Aircraft",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250412_180000_5.pt",
+   "labels": [
+    "Aircraft",
+    "Wind",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250412_180000_6.pt",
+   "labels": [
+    "Aircraft",
+    "Wind",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250412_180000_7.pt",
+   "labels": [
+    "Aircraft",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250412_180000_8.pt",
+   "labels": [
+    "Aircraft",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250412_180000_9.pt",
+   "labels": [
+    "Aircraft",
+    "Wind",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250412_180000_10.pt",
+   "labels": [
+    "Aircraft",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250506_211500_1.pt",
+   "labels": [
+    "Rain",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250506_211500_2.pt",
+   "labels": [
+    "Rain",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250506_211500_3.pt",
+   "labels": [
+    "Rain",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250506_211500_4.pt",
+   "labels": [
+    "Rain",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250506_211500_5.pt",
+   "labels": [
+    "Rain",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250506_211500_6.pt",
+   "labels": [
+    "Rain",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250506_211500_7.pt",
+   "labels": [
+    "Rain",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250506_211500_8.pt",
+   "labels": [
+    "Rain",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250506_211500_9.pt",
+   "labels": [
+    "Rain",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250506_211500_10.pt",
+   "labels": [
+    "Rain",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250804_174500_1.pt",
+   "labels": [
+    "Rain",
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250804_174500_2.pt",
+   "labels": [
+    "Rain",
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250804_174500_3.pt",
+   "labels": [
+    "Rain",
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250804_174500_4.pt",
+   "labels": [
+    "Rain",
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250804_174500_5.pt",
+   "labels": [
+    "Rain",
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250804_174500_6.pt",
+   "labels": [
+    "Rain",
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250804_174500_7.pt",
+   "labels": [
+    "Rain",
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250804_174500_8.pt",
+   "labels": [
+    "Rain",
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250804_174500_9.pt",
+   "labels": [
+    "Rain",
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GW03_20250804_174500_10.pt",
+   "labels": [
+    "Rain",
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20241115_023000_1.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "MammalLow_山羌"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20241115_023000_2.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "MammalLow_山羌"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20241115_023000_3.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20241115_023000_4.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20241115_023000_5.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20241115_023000_6.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20241115_023000_7.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20241115_023000_8.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20241115_023000_9.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20241115_023000_10.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250102_050000_1.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250102_050000_2.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250102_050000_3.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250102_050000_4.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250102_050000_5.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250102_050000_6.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250102_050000_7.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250102_050000_8.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250102_050000_9.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250102_050000_10.pt",
+   "labels": [
+    "Wind",
+    "Rain"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250103_031500_1.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250103_031500_2.pt",
+   "labels": [
+    "Wind",
+    "MammalLow_山羌"
+   ],
+   "weights": [
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250103_031500_3.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250103_031500_4.pt",
+   "labels": [
+    "Wind",
+    "MammalLow_山羌"
+   ],
+   "weights": [
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250103_031500_5.pt",
+   "labels": [
+    "Wind",
+    "MammalLow_山羌"
+   ],
+   "weights": [
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250103_031500_6.pt",
+   "labels": [
+    "Wind",
+    "MammalLow_山羌"
+   ],
+   "weights": [
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250103_031500_7.pt",
+   "labels": [
+    "Wind",
+    "MammalLow_山羌"
+   ],
+   "weights": [
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250103_031500_8.pt",
+   "labels": [
+    "MammalLow_山羌"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250103_031500_9.pt",
+   "labels": [
+    "MammalLow_山羌"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250103_031500_10.pt",
+   "labels": [
+    "MammalLow_山羌"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250203_143000_1.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250203_143000_2.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250203_143000_3.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250203_143000_4.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250203_143000_5.pt",
+   "labels": [
+    "Wind",
+    "MammalLow_狗"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250203_143000_6.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250203_143000_7.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250203_143000_8.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250203_143000_9.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250203_143000_10.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250213_123000_1.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250213_123000_2.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250213_123000_3.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250213_123000_4.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250213_123000_5.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250213_123000_6.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250213_123000_7.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250213_123000_8.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250213_123000_9.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250213_123000_10.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250224_220000_1.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250224_220000_2.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250224_220000_3.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250224_220000_4.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250224_220000_5.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250224_220000_6.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250224_220000_7.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250224_220000_8.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250224_220000_9.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250224_220000_10.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250228_043000_1.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250228_043000_2.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250228_043000_3.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250228_043000_4.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250228_043000_5.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250228_043000_6.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250228_043000_7.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250228_043000_8.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250228_043000_9.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250228_043000_10.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250311_090000_1.pt",
+   "labels": [
+    "Bird",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250311_090000_2.pt",
+   "labels": [
+    "Bird",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250311_090000_3.pt",
+   "labels": [
+    "Bird",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250311_090000_4.pt",
+   "labels": [
+    "Bird",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250311_090000_5.pt",
+   "labels": [
+    "Bird",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250311_090000_6.pt",
+   "labels": [
+    "Machine"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250311_090000_7.pt",
+   "labels": [
+    "Bird",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250311_090000_8.pt",
+   "labels": [
+    "Bird",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250311_090000_9.pt",
+   "labels": [
+    "Bird",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250311_090000_10.pt",
+   "labels": [
+    "Bird",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_1.pt",
+   "labels": [
+    "Wind",
+    "Machine",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_2.pt",
+   "labels": [
+    "Wind",
+    "Machine",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_3.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_4.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_5.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_6.pt",
+   "labels": [
+    "Wind",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_7.pt",
+   "labels": [
+    "Wind",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_8.pt",
+   "labels": [
+    "Wind",
+    "Machine",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_9.pt",
+   "labels": [
+    "Wind",
+    "Machine",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_10.pt",
+   "labels": [
+    "Machine",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_1.pt",
+   "labels": [
+    "Machine"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_2.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_3.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_4.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_5.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_6.pt",
+   "labels": [
+    "Wind",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_7.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_8.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_9.pt",
+   "labels": [
+    "Wind",
+    "Machine",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250325_073000_10.pt",
+   "labels": [
+    "Wind",
+    "Machine",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250410_031500_1.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250410_031500_2.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250410_031500_3.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250410_031500_4.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250410_031500_5.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250410_031500_6.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250410_031500_7.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250410_031500_8.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250410_031500_9.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250410_031500_10.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250512_134500_1.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250512_134500_2.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250512_134500_3.pt",
+   "labels": [
+    "Wind",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250512_134500_4.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250512_134500_5.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250512_134500_6.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250512_134500_7.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250512_134500_8.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250512_134500_9.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250512_134500_10.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250517_074500_1.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250517_074500_2.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250517_074500_3.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250517_074500_4.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250517_074500_5.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250517_074500_6.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250517_074500_7.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250517_074500_8.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250517_074500_9.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250517_074500_10.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_1.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_2.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_3.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_4.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_5.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_6.pt",
+   "labels": [
+    "Wind",
+    "Machine",
+    "Bird",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_7.pt",
+   "labels": [
+    "Wind",
+    "Machine",
+    "Bird",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_8.pt",
+   "labels": [
+    "Wind",
+    "Machine",
+    "Bird",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_9.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_10.pt",
+   "labels": [
+    "Machine",
+    "Bird",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_11.pt",
+   "labels": [
+    "Machine",
+    "Bird",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_12.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_13.pt",
+   "labels": [
+    "Wind",
+    "Machine",
+    "Bird",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_14.pt",
+   "labels": [
+    "Wind",
+    "Machine",
+    "Bird",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_15.pt",
+   "labels": [
+    "Wind",
+    "Bird",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_16.pt",
+   "labels": [
+    "Wind",
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_17.pt",
+   "labels": [
+    "Wind",
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_18.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Insect",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_19.pt",
+   "labels": [
+    "Wind",
+    "Bird",
+    "Machine",
+    "Insect",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250521_070000_20.pt",
+   "labels": [
+    "Wind",
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250601_010000_1.pt",
+   "labels": [
+    "Owl",
+    "Wind"
+   ],
+   "weights": [
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250601_010000_2.pt",
+   "labels": [
+    "Owl",
+    "Wind"
+   ],
+   "weights": [
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250601_010000_3.pt",
+   "labels": [
+    "Owl",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250601_010000_4.pt",
+   "labels": [
+    "Wind",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250601_010000_5.pt",
+   "labels": [
+    "Frog"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250601_010000_6.pt",
+   "labels": [
+    "Wind",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250601_010000_7.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250601_010000_8.pt",
+   "labels": [
+    "Owl",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250601_010000_9.pt",
+   "labels": [
+    "Frog",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250601_010000_10.pt",
+   "labels": [
+    "Owl",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250607_070000_1.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250607_070000_2.pt",
+   "labels": [
+    "Machine",
+    "Bird",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250607_070000_3.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250607_070000_4.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250607_070000_5.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250607_070000_6.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250607_070000_7.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250607_070000_8.pt",
+   "labels": [
+    "Machine",
+    "Bird",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250607_070000_9.pt",
+   "labels": [
+    "Machine",
+    "Bird",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250607_070000_10.pt",
+   "labels": [
+    "Bird",
+    "Machine",
+    "Aircraft",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250615_110000_1.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250615_110000_2.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250615_110000_3.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250615_110000_4.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250615_110000_5.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250615_110000_6.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250615_110000_7.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250615_110000_8.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250615_110000_9.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250615_110000_10.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250616_101500_1.pt",
+   "labels": [
+    "Wind",
+    "Cicada",
+    "Bird",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250616_101500_2.pt",
+   "labels": [
+    "Wind",
+    "Bird",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250616_101500_3.pt",
+   "labels": [
+    "Wind",
+    "Cicada",
+    "Bird",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250616_101500_4.pt",
+   "labels": [
+    "Wind",
+    "Cicada",
+    "Bird",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250616_101500_5.pt",
+   "labels": [
+    "Wind",
+    "Cicada",
+    "Bird",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250616_101500_6.pt",
+   "labels": [
+    "Bird",
+    "Cicada",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250616_101500_7.pt",
+   "labels": [
+    "Bird",
+    "Cicada",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250616_101500_8.pt",
+   "labels": [
+    "Bird",
+    "Cicada",
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    0.6,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250616_101500_9.pt",
+   "labels": [
+    "Wind",
+    "Cicada",
+    "Bird",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250616_101500_10.pt",
+   "labels": [
+    "Cicada",
+    "Wind",
+    "Bird",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    0.6,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250706_084500_1.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250706_084500_2.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250706_084500_3.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250706_084500_4.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250706_084500_5.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250706_084500_6.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250706_084500_7.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250706_084500_8.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250706_084500_9.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250706_084500_10.pt",
+   "labels": [
+    "Cicada",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250713_000000_1.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250713_000000_2.pt",
+   "labels": [
+    "Wind",
+    "Bat"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250713_000000_3.pt",
+   "labels": [
+    "Frog",
+    "Bat"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250713_000000_4.pt",
+   "labels": [
+    "Bat",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250713_000000_5.pt",
+   "labels": [
+    "Wind",
+    "Bat"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250713_000000_6.pt",
+   "labels": [
+    "Bat",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250713_000000_7.pt",
+   "labels": [
+    "Frog",
+    "Bat",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250713_000000_8.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250713_000000_9.pt",
+   "labels": [
+    "Bat",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB01_20250713_000000_10.pt",
+   "labels": [
+    "Bat",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250221_150000_4.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250221_150000_6.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250221_150000_9.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250221_150000_10.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250507_171500_1.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250507_171500_2.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250507_171500_3.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250507_171500_4.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250507_171500_5.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250507_171500_6.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250507_171500_7.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250507_171500_8.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250507_171500_9.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250507_171500_10.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250525_091500_1.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250525_091500_2.pt",
+   "labels": [
+    "Rain",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250525_091500_3.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250525_091500_4.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250525_091500_5.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250525_091500_6.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250525_091500_7.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250525_091500_8.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250525_091500_9.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250525_091500_10.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250613_144500_1.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250613_144500_2.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250613_144500_3.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250613_144500_4.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250613_144500_5.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250613_144500_6.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250613_144500_7.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250613_144500_8.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250613_144500_9.pt",
+   "labels": [
+    "Rain",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250613_144500_10.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250711_170000_1.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250711_170000_2.pt",
+   "labels": [
+    "Rain",
+    "Bird",
+    "Bat"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250711_170000_3.pt",
+   "labels": [
+    "Rain",
+    "Bird",
+    "Bat"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250711_170000_4.pt",
+   "labels": [
+    "Rain",
+    "Bird",
+    "Bat"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250711_170000_5.pt",
+   "labels": [
+    "Rain",
+    "Bird",
+    "Bat"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250711_170000_6.pt",
+   "labels": [
+    "Rain",
+    "Bird",
+    "Bat"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250711_170000_7.pt",
+   "labels": [
+    "Rain",
+    "Bat"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250711_170000_8.pt",
+   "labels": [
+    "Rain",
+    "Bird",
+    "Bat"
+   ],
+   "weights": [
+    1.0,
+    0.6,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250711_170000_9.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB02_20250711_170000_10.pt",
+   "labels": [
+    "Rain",
+    "Bat"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250119_044500_1.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250119_044500_2.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250119_044500_3.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250119_044500_4.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250119_044500_5.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250119_044500_6.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250119_044500_7.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250119_044500_8.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250119_044500_9.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250119_044500_10.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250421_224500_1.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250421_224500_2.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250421_224500_3.pt",
+   "labels": [
+    "Wind",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250421_224500_4.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250421_224500_5.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250421_224500_6.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250421_224500_7.pt",
+   "labels": [
+    "Wind",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250421_224500_8.pt",
+   "labels": [
+    "Wind",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250421_224500_9.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250421_224500_10.pt",
+   "labels": [
+    "Wind",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250725_104500_1.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250725_104500_2.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250725_104500_3.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250725_104500_4.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250725_104500_5.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250725_104500_6.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250725_104500_7.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250725_104500_8.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250725_104500_9.pt",
+   "labels": [
+    "Wind",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB03_20250725_104500_10.pt",
+   "labels": [
+    "Wind",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250218_044500_1.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250218_044500_2.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250218_044500_3.pt",
+   "labels": [
+    "Wind",
+    "MammalLow_狗"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250218_044500_4.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250218_044500_5.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250218_044500_6.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250218_044500_7.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250218_044500_8.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250218_044500_9.pt",
+   "labels": [
+    "Owl"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250218_044500_10.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250228_024500_1.pt",
+   "labels": [
+    "Owl",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250228_024500_2.pt",
+   "labels": [
+    "Owl",
+    "MammalLow_山羌"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250228_024500_3.pt",
+   "labels": [
+    "Owl",
+    "MammalLow_山羌"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250228_024500_4.pt",
+   "labels": [
+    "Owl"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250228_024500_5.pt",
+   "labels": [
+    "Owl",
+    "MammalLow_山羌"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250228_024500_6.pt",
+   "labels": [
+    "Owl",
+    "MammalLow_山羌"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250228_024500_7.pt",
+   "labels": [
+    "Owl",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250228_024500_8.pt",
+   "labels": [
+    "Owl"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250228_024500_9.pt",
+   "labels": [
+    "Owl"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250228_024500_10.pt",
+   "labels": [
+    "Owl"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250312_044500_1.pt",
+   "labels": [
+    "Aircraft",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250312_044500_2.pt",
+   "labels": [
+    "Aircraft",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250312_044500_3.pt",
+   "labels": [
+    "Aircraft",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250312_044500_4.pt",
+   "labels": [
+    "Aircraft",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250312_044500_5.pt",
+   "labels": [
+    "Aircraft",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250312_044500_6.pt",
+   "labels": [
+    "Aircraft",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250312_044500_7.pt",
+   "labels": [
+    "Aircraft",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250312_044500_8.pt",
+   "labels": [
+    "Aircraft",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250312_044500_9.pt",
+   "labels": [
+    "Aircraft",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250312_044500_10.pt",
+   "labels": [
+    "Aircraft",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250530_124500_1.pt",
+   "labels": [
+    "Aircraft",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250530_124500_2.pt",
+   "labels": [
+    "Aircraft",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250530_124500_3.pt",
+   "labels": [
+    "Aircraft",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250530_124500_4.pt",
+   "labels": [
+    "Aircraft",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250530_124500_5.pt",
+   "labels": [
+    "Aircraft",
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250530_124500_6.pt",
+   "labels": [
+    "Aircraft",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250530_124500_7.pt",
+   "labels": [
+    "Aircraft",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250530_124500_8.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250530_124500_9.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB04_20250530_124500_10.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250511_174500_1.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250511_174500_2.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250511_174500_3.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250511_174500_4.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250511_174500_5.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250511_174500_6.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250511_174500_7.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250511_174500_8.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250511_174500_9.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250511_174500_10.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250614_133000_1.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250614_133000_2.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250614_133000_3.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250614_133000_4.pt",
+   "labels": [
+    "Wind",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250614_133000_5.pt",
+   "labels": [
+    "Wind",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250614_133000_6.pt",
+   "labels": [
+    "Wind",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250614_133000_7.pt",
+   "labels": [
+    "Wind",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250614_133000_8.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250614_133000_9.pt",
+   "labels": [
+    "Wind",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB05_20250614_133000_10.pt",
+   "labels": [
+    "Wind",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250405_003000_1.pt",
+   "labels": [
+    "Owl"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250405_003000_2.pt",
+   "labels": [
+    "Owl"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250405_003000_3.pt",
+   "labels": [
+    "Insect"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250405_003000_4.pt",
+   "labels": [
+    "Owl"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250405_003000_6.pt",
+   "labels": [
+    "Owl"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250405_003000_7.pt",
+   "labels": [
+    "Owl"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250405_003000_8.pt",
+   "labels": [
+    "Owl"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250405_003000_9.pt",
+   "labels": [
+    "Wind",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250405_003000_10.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250413_030000_6.pt",
+   "labels": [
+    "Frog"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250413_030000_7.pt",
+   "labels": [
+    "Frog"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250413_030000_8.pt",
+   "labels": [
+    "Frog"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250413_030000_9.pt",
+   "labels": [
+    "Frog"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250622_203000_1.pt",
+   "labels": [
+    "Bat",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250622_203000_2.pt",
+   "labels": [
+    "Bat"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250622_203000_3.pt",
+   "labels": [
+    "Bat",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250622_203000_4.pt",
+   "labels": [
+    "Bat",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250622_203000_5.pt",
+   "labels": [
+    "Bat",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250622_203000_6.pt",
+   "labels": [
+    "Bat",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250622_203000_7.pt",
+   "labels": [
+    "Bat",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250622_203000_8.pt",
+   "labels": [
+    "Bat",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250622_203000_9.pt",
+   "labels": [
+    "Bat",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250622_203000_10.pt",
+   "labels": [
+    "Bat",
+    "Owl"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_1.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_2.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_3.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_4.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_5.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_6.pt",
+   "labels": [
+    "Bird",
+    "Frog"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_7.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_8.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_9.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_10.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_11.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_12.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_13.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_14.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_15.pt",
+   "labels": [
+    "Wind",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_16.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_17.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_18.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_19.pt",
+   "labels": [
+    "Wind"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWB07_20250728_060000_20.pt",
+   "labels": [
+    "Bird",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_1.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_2.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_3.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_4.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_5.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_6.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_7.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_8.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_9.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_10.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_11.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_12.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_13.pt",
+   "labels": [
+    "Rain",
+    "Wind"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_14.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_15.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_16.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_17.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_18.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_19.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250330_074400_20.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250506_083000_1.pt",
+   "labels": [
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250506_083000_2.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250506_083000_3.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250506_083000_4.pt",
+   "labels": [
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250506_083000_5.pt",
+   "labels": [
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250506_083000_6.pt",
+   "labels": [
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250506_083000_7.pt",
+   "labels": [
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250506_083000_8.pt",
+   "labels": [
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250506_083000_9.pt",
+   "labels": [
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250506_083000_10.pt",
+   "labels": [
+    "Wind",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250524_230000_1.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250524_230000_2.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250524_230000_3.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250524_230000_4.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250524_230000_5.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250524_230000_6.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250524_230000_7.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250524_230000_8.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250524_230000_9.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250524_230000_10.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_1.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_2.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_3.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_4.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_5.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_6.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_7.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_8.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_9.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_10.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_11.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_12.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_13.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_14.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_15.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_16.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_17.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_18.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_19.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250525_062900_20.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250721_171500_1.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250721_171500_2.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250721_171500_3.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250721_171500_4.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250721_171500_5.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250721_171500_6.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250721_171500_7.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250721_171500_8.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250721_171500_9.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU02_20250721_171500_10.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250305_054500_1.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250305_054500_2.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250305_054500_3.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250305_054500_4.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250305_054500_5.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250305_054500_6.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250305_054500_7.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250305_054500_8.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250305_054500_9.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250305_054500_10.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250314_151500_1.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250314_151500_2.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250314_151500_3.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250314_151500_4.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250314_151500_5.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250314_151500_6.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250314_151500_7.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250314_151500_8.pt",
+   "labels": [
+    "Rain",
+    "Bird",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250314_151500_9.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250314_151500_10.pt",
+   "labels": [
+    "Rain",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250407_053000_1.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250407_053000_2.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250407_053000_3.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250407_053000_4.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250407_053000_5.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250407_053000_6.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250407_053000_7.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250407_053000_8.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250407_053000_9.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250407_053000_10.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250416_081500_1.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250416_081500_2.pt",
+   "labels": [
+    "Bird",
+    "Aircraft"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250416_081500_3.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250416_081500_4.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250416_081500_5.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250416_081500_6.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250416_081500_7.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250416_081500_8.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250416_081500_9.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU04_20250416_081500_10.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_1.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_2.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_3.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_4.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_5.pt",
+   "labels": [
+    "Bird",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_6.pt",
+   "labels": [
+    "Bird",
+    "Machine"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_7.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_8.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_9.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_10.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_1.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_2.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_3.pt",
+   "labels": [
+    "Machine",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_4.pt",
+   "labels": [
+    "Machine",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_5.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_6.pt",
+   "labels": [
+    "Machine",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_7.pt",
+   "labels": [
+    "Machine",
+    "Bird"
+   ],
+   "weights": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_8.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_9.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250312_072900_10.pt",
+   "labels": [
+    "Bird"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250413_011500_1.pt",
+   "labels": [
+    "Rain",
+    "Insect"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250413_011500_2.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250413_011500_3.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250413_011500_4.pt",
+   "labels": [
+    "Rain",
+    "Insect"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250413_011500_5.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250413_011500_6.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250413_011500_7.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250413_011500_8.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250413_011500_9.pt",
+   "labels": [
+    "Rain"
+   ],
+   "weights": [
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250413_011500_10.pt",
+   "labels": [
+    "Rain",
+    "Insect"
+   ],
+   "weights": [
+    1.0,
+    0.6
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250613_201500_1.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250613_201500_2.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250613_201500_3.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250613_201500_4.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250613_201500_5.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250613_201500_6.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250613_201500_7.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250613_201500_8.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250613_201500_9.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "wav": "D:\\spectrogram_6s_pt_name/GWU05_20250613_201500_10.pt",
+   "labels": [
+    "Wind",
+    "Rain",
+    "Aircraft",
+    "Machine",
+    "Speech"
+   ],
+   "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  }
+ ]
+}

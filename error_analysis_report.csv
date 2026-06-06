@@ -1,0 +1,1290 @@
+﻿File,Ground Truth,Prediction,Missed (FN),False Alarm (FP)
+20240515_221000_8.pt,Mammal,,Mammal,
+20240518_204000_5.pt,Mammal,,Mammal,
+20240601_015500_4.pt,Mammal,,Mammal,
+FS01_20230106_033000_1.pt,"Insect, Rain, Wind",Rain,"Insect, Wind",
+FS01_20230106_033000_10.pt,"Insect, Rain, Wind","Insect, Rain",Wind,
+FS01_20230106_033000_2.pt,"Insect, Rain, Wind",Rain,"Insect, Wind",
+FS01_20230106_033000_3.pt,"Insect, Rain, Wind",Rain,"Insect, Wind",
+FS01_20230106_033000_4.pt,"Insect, Rain, Wind",Rain,"Insect, Wind",
+FS01_20230106_033000_5.pt,"Insect, Rain, Wind",Rain,"Insect, Wind",
+FS01_20230106_033000_6.pt,"Insect, Rain, Wind","Insect, Rain",Wind,
+FS01_20230106_033000_7.pt,"Insect, Rain, Wind",Rain,"Insect, Wind",
+FS01_20230106_033000_8.pt,"Insect, Rain, Wind",Rain,"Insect, Wind",
+FS01_20230106_033000_9.pt,"Insect, Rain, Wind",Rain,"Insect, Wind",
+FS01_20230106_110900_1.pt,"Mammal, Wind",Wind,Mammal,
+FS01_20230106_110900_10.pt,"Mammal, Wind",Wind,Mammal,
+FS01_20230106_110900_2.pt,"Mammal, Wind",Wind,Mammal,
+FS01_20230106_110900_3.pt,"Mammal, Wind",Wind,Mammal,
+FS01_20230106_110900_4.pt,"Mammal, Wind",Wind,Mammal,
+FS01_20230106_110900_5.pt,"Mammal, Wind",Wind,Mammal,
+FS01_20230106_110900_6.pt,"Mammal, Wind",Wind,Mammal,
+FS01_20230106_110900_7.pt,"Mammal, Wind",Wind,Mammal,
+FS01_20230106_110900_8.pt,"Mammal, Wind",Wind,Mammal,
+FS01_20230106_110900_9.pt,"Mammal, Wind",Wind,Mammal,
+FS01_20230109_121500_1.pt,Rain,,Rain,
+FS01_20230109_121500_10.pt,Rain,Bird,Rain,Bird
+FS01_20230109_121500_2.pt,Rain,Bird,Rain,Bird
+FS01_20230109_121500_3.pt,Rain,"Bird, Rain",,Bird
+FS01_20230109_121500_4.pt,Rain,Bird,Rain,Bird
+FS01_20230109_121500_5.pt,Rain,Bird,Rain,Bird
+FS01_20230109_121500_6.pt,Rain,Bird,Rain,Bird
+FS01_20230109_121500_7.pt,Rain,Bird,Rain,Bird
+FS01_20230109_121500_8.pt,Rain,Bird,Rain,Bird
+FS01_20230109_121500_9.pt,Rain,Bird,Rain,Bird
+FS01_20230113_230300_1.pt,Insect,"Frog, Insect",,Frog
+FS01_20230113_230300_10.pt,Insect,"Frog, Insect",,Frog
+FS01_20230113_230300_2.pt,Insect,"Frog, Insect",,Frog
+FS01_20230113_230300_3.pt,Insect,"Frog, Insect",,Frog
+FS01_20230113_230300_4.pt,Insect,"Frog, Insect",,Frog
+FS01_20230113_230300_5.pt,Insect,"Frog, Insect",,Frog
+FS01_20230113_230300_6.pt,Insect,"Frog, Insect",,Frog
+FS01_20230113_230300_7.pt,Insect,"Frog, Insect",,Frog
+FS01_20230113_230300_8.pt,Insect,"Frog, Insect",,Frog
+FS01_20230113_230300_9.pt,Insect,"Frog, Insect",,Frog
+FS01_20230115_082400_1.pt,Wind,Insect,Wind,Insect
+FS01_20230115_082400_2.pt,Wind,"Insect, Wind",,Insect
+FS01_20230115_082400_4.pt,Wind,"Insect, Wind",,Insect
+FS01_20230115_082400_5.pt,Wind,"Insect, Wind",,Insect
+FS01_20230115_082400_8.pt,Wind,"Insect, Wind",,Insect
+FS01_20230115_082400_9.pt,Wind,"Insect, Wind",,Insect
+FS01_20230115_110000_10.pt,"Aircraft, Wind","Aircraft, Insect",Wind,Insect
+FS01_20230115_110000_2.pt,"Aircraft, Wind","Aircraft, Insect, Wind",,Insect
+FS01_20230115_110000_3.pt,"Aircraft, Wind","Aircraft, Insect, Wind",,Insect
+FS01_20230115_110000_4.pt,"Aircraft, Wind","Aircraft, Insect, Wind",,Insect
+FS01_20230115_110000_5.pt,"Aircraft, Wind","Aircraft, Insect, Wind",,Insect
+FS01_20230115_110000_6.pt,"Aircraft, Wind","Aircraft, Insect, Wind",,Insect
+FS01_20230115_110000_7.pt,"Aircraft, Wind","Aircraft, Insect, Wind",,Insect
+FS01_20230115_110000_9.pt,"Aircraft, Wind","Aircraft, Insect",Wind,Insect
+FS01_20230116_053000_6.pt,Wind,"Bird, Wind",,Bird
+FS01_20230125_173900_1.pt,Aircraft,Wind,Aircraft,Wind
+FS01_20230125_173900_10.pt,Aircraft,Wind,Aircraft,Wind
+FS01_20230125_173900_2.pt,Aircraft,Wind,Aircraft,Wind
+FS01_20230125_173900_3.pt,Aircraft,"Aircraft, Wind",,Wind
+FS01_20230125_173900_4.pt,Aircraft,Wind,Aircraft,Wind
+FS01_20230125_173900_5.pt,Aircraft,Wind,Aircraft,Wind
+FS01_20230125_173900_6.pt,Aircraft,Wind,Aircraft,Wind
+FS01_20230125_173900_8.pt,Aircraft,Wind,Aircraft,Wind
+FS01_20230125_173900_9.pt,Aircraft,Wind,Aircraft,Wind
+FS01_20230126_070600_1.pt,"Bird, Wind",Bird,Wind,
+FS01_20230126_070600_10.pt,"Bird, Wind",Wind,Bird,
+FS01_20230126_070600_3.pt,"Bird, Wind",Bird,Wind,
+FS01_20230126_070600_4.pt,"Bird, Wind",Wind,Bird,
+FS01_20230126_070600_5.pt,"Bird, Wind",Bird,Wind,
+FS01_20230126_070600_7.pt,"Bird, Wind",Bird,Wind,
+FS01_20230126_070600_8.pt,"Bird, Wind",Bird,Wind,
+FS01_20230126_070600_9.pt,"Bird, Wind",Bird,Wind,
+FS01_20230126_115100_1.pt,"Rain, Wind",,"Rain, Wind",
+FS01_20230126_115100_10.pt,"Rain, Wind",,"Rain, Wind",
+FS01_20230126_115100_2.pt,"Rain, Wind",,"Rain, Wind",
+FS01_20230126_115100_3.pt,"Rain, Wind",,"Rain, Wind",
+FS01_20230126_115100_4.pt,"Rain, Wind",,"Rain, Wind",
+FS01_20230126_115100_5.pt,"Rain, Wind","Bird, Rain",Wind,Bird
+FS01_20230126_115100_6.pt,"Rain, Wind",Rain,Wind,
+FS01_20230126_115100_7.pt,"Rain, Wind",Rain,Wind,
+FS01_20230126_115100_8.pt,"Rain, Wind",,"Rain, Wind",
+FS01_20230126_115100_9.pt,"Rain, Wind",,"Rain, Wind",
+FS01_20230128_113600_10.pt,Rain,Bird,Rain,Bird
+FS01_20230128_113600_6.pt,Rain,"Bird, Rain",,Bird
+FS01_20230128_113600_8.pt,Rain,,Rain,
+FS01_20230128_113600_9.pt,Rain,,Rain,
+FS01_20230130_113600_1.pt,Wind,Rain,Wind,Rain
+FS01_20230201_120600_7.pt,Wind,,Wind,
+FS01_20230201_120600_8.pt,Wind,Rain,Wind,Rain
+FS01_20230212_033300_1.pt,"Frog, Insect","Frog, Insect, Owl, Rain",,"Owl, Rain"
+FS01_20230212_033300_10.pt,"Frog, Insect","Frog, Insect, Owl",,Owl
+FS01_20230212_033300_2.pt,"Frog, Insect","Frog, Insect, Owl",,Owl
+FS01_20230212_033300_3.pt,"Frog, Insect","Frog, Insect, Owl",,Owl
+FS01_20230212_033300_4.pt,"Frog, Insect","Frog, Insect, Owl, Rain",,"Owl, Rain"
+FS01_20230212_033300_5.pt,"Frog, Insect","Frog, Insect, Owl",,Owl
+FS01_20230212_033300_6.pt,"Frog, Insect","Frog, Insect, Owl",,Owl
+FS01_20230212_033300_7.pt,"Frog, Insect","Frog, Insect, Owl, Rain",,"Owl, Rain"
+FS01_20230212_033300_8.pt,"Frog, Insect","Frog, Insect, Owl",,Owl
+FS01_20230212_033300_9.pt,"Frog, Insect","Frog, Insect, Owl, Rain",,"Owl, Rain"
+FS01_20230213_061800_1.pt,"Bird, Rain, Wind","Bird, Rain",Wind,
+FS01_20230213_061800_10.pt,"Bird, Rain, Wind",,"Bird, Rain, Wind",
+FS01_20230213_061800_2.pt,"Bird, Rain, Wind","Bird, Rain",Wind,
+FS01_20230213_061800_3.pt,"Bird, Rain, Wind","Bird, Rain",Wind,
+FS01_20230213_061800_4.pt,"Bird, Rain, Wind","Bird, Rain",Wind,
+FS01_20230213_061800_5.pt,"Bird, Rain, Wind","Bird, Rain",Wind,
+FS01_20230213_061800_6.pt,"Bird, Rain, Wind","Bird, Rain",Wind,
+FS01_20230213_061800_7.pt,"Bird, Rain, Wind","Bird, Rain",Wind,
+FS01_20230213_061800_8.pt,"Bird, Rain, Wind",Bird,"Rain, Wind",
+FS01_20230213_061800_9.pt,"Bird, Rain, Wind","Bird, Rain",Wind,
+FS01_20230216_125700_10.pt,Wind,"Bird, Wind",,Bird
+FS01_20230216_125700_9.pt,Wind,"Bird, Wind",,Bird
+FS01_20230219_000000_7.pt,Frog,Owl,Frog,Owl
+FS01_20230219_000000_8.pt,Frog,Owl,Frog,Owl
+FS01_20230219_070000_1.pt,"Bird, Rain",Bird,Rain,
+FS01_20230219_070000_10.pt,"Bird, Rain",Rain,Bird,
+FS01_20230219_070000_2.pt,"Bird, Rain",Bird,Rain,
+FS01_20230219_070000_3.pt,"Bird, Rain",,"Bird, Rain",
+FS01_20230219_070000_5.pt,"Bird, Rain",Bird,Rain,
+FS01_20230219_070000_6.pt,"Bird, Rain",Bird,Rain,
+FS01_20230219_070000_7.pt,"Bird, Rain",Bird,Rain,
+FS01_20230219_070000_9.pt,"Bird, Rain",Bird,Rain,
+FS01_20230305_221500_1.pt,"Insect, Owl",Owl,Insect,
+FS01_20230305_221500_10.pt,"Insect, Owl",Owl,Insect,
+FS01_20230305_221500_2.pt,"Insect, Owl",Owl,Insect,
+FS01_20230305_221500_3.pt,"Insect, Owl",Owl,Insect,
+FS01_20230305_221500_4.pt,"Insect, Owl",Owl,Insect,
+FS01_20230305_221500_5.pt,"Insect, Owl",Frog,"Insect, Owl",Frog
+FS01_20230305_221500_6.pt,"Insect, Owl",Owl,Insect,
+FS01_20230305_221500_7.pt,"Insect, Owl","Frog, Owl",Insect,Frog
+FS01_20230305_221500_8.pt,"Insect, Owl","Frog, Owl",Insect,Frog
+FS01_20230305_221500_9.pt,"Insect, Owl",Owl,Insect,
+FS01_20230307_120000_1.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_120000_10.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_120000_2.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_120000_3.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_120000_4.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_120000_5.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_120000_6.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_120000_7.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_120000_8.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_120000_9.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_140000_10.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_140000_2.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_140000_3.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_140000_4.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_140000_5.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_140000_6.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_140000_7.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_140000_8.pt,"Bird, Wind",Wind,Bird,
+FS01_20230307_140000_9.pt,"Bird, Wind",Wind,Bird,
+FS01_20230322_090000_1.pt,Bird,Wind,Bird,Wind
+FS01_20230322_090000_10.pt,Bird,"Bird, Wind",,Wind
+FS01_20230322_090000_2.pt,Bird,"Insect, Rain, Wind",Bird,"Insect, Rain, Wind"
+FS01_20230322_090000_3.pt,Bird,"Bird, Wind",,Wind
+FS01_20230322_090000_4.pt,Bird,"Bird, Wind",,Wind
+FS01_20230322_090000_5.pt,Bird,"Bird, Wind",,Wind
+FS01_20230322_090000_6.pt,Bird,"Bird, Wind",,Wind
+FS01_20230322_090000_7.pt,Bird,"Bird, Wind",,Wind
+FS01_20230322_090000_8.pt,Bird,Wind,Bird,Wind
+FS01_20230322_090000_9.pt,Bird,"Bird, Wind",,Wind
+FS01_20230322_200000_1.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+FS01_20230322_200000_10.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+FS01_20230322_200000_2.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+FS01_20230322_200000_3.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+FS01_20230322_200000_4.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+FS01_20230322_200000_5.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+FS01_20230322_200000_6.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+FS01_20230322_200000_7.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+FS01_20230322_200000_8.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+FS01_20230322_200000_9.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+FS01_20230325_153900_1.pt,"Bird, Speech, Wind",Bird,"Speech, Wind",
+FS01_20230325_153900_10.pt,"Bird, Speech, Wind","Bird, Rain","Speech, Wind",Rain
+FS01_20230325_153900_2.pt,"Bird, Speech, Wind","Bird, Wind",Speech,
+FS01_20230325_153900_4.pt,"Bird, Speech, Wind","Bird, Wind",Speech,
+FS01_20230325_153900_5.pt,"Bird, Speech, Wind",Bird,"Speech, Wind",
+FS01_20230325_153900_6.pt,"Bird, Speech, Wind",Bird,"Speech, Wind",
+FS01_20230325_153900_7.pt,"Bird, Speech, Wind","Bird, Rain","Speech, Wind",Rain
+FS01_20230325_153900_8.pt,"Bird, Speech, Wind","Bird, Wind",Speech,
+FS01_20230325_153900_9.pt,"Bird, Speech, Wind","Bird, Rain","Speech, Wind",Rain
+FS01_20230330_224500_1.pt,"Frog, Insect","Frog, Wind",Insect,Wind
+FS01_20230330_224500_10.pt,"Frog, Insect",Frog,Insect,
+FS01_20230330_224500_2.pt,"Frog, Insect","Frog, Rain",Insect,Rain
+FS01_20230330_224500_3.pt,"Frog, Insect","Frog, Rain",Insect,Rain
+FS01_20230330_224500_4.pt,"Frog, Insect","Frog, Wind",Insect,Wind
+FS01_20230330_224500_5.pt,"Frog, Insect",Frog,Insect,
+FS01_20230330_224500_6.pt,"Frog, Insect",Frog,Insect,
+FS01_20230330_224500_7.pt,"Frog, Insect",Frog,Insect,
+FS01_20230330_224500_8.pt,"Frog, Insect",Frog,Insect,
+FS01_20230330_224500_9.pt,"Frog, Insect",Frog,Insect,
+FS01_20230402_052100_1.pt,"Frog, Owl","Frog, Owl, Rain",,Rain
+FS01_20230402_052100_10.pt,"Frog, Owl","Frog, Rain",Owl,Rain
+FS01_20230402_052100_2.pt,"Frog, Owl","Frog, Rain",Owl,Rain
+FS01_20230402_052100_3.pt,"Frog, Owl","Frog, Rain",Owl,Rain
+FS01_20230402_052100_4.pt,"Frog, Owl","Frog, Rain",Owl,Rain
+FS01_20230402_052100_6.pt,"Frog, Owl","Frog, Mammal, Rain",Owl,"Mammal, Rain"
+FS01_20230402_052100_7.pt,"Frog, Owl","Frog, Rain",Owl,Rain
+FS01_20230402_052100_8.pt,"Frog, Owl","Frog, Rain",Owl,Rain
+FS01_20230402_052100_9.pt,"Frog, Owl","Frog, Mammal, Rain",Owl,"Mammal, Rain"
+FS01_20230408_004200_1.pt,Frog,"Bird, Frog",,Bird
+FS01_20230408_004200_4.pt,Frog,"Frog, Rain",,Rain
+FS01_20230408_004200_6.pt,Frog,"Frog, Rain",,Rain
+FS01_20230408_004200_7.pt,Frog,"Frog, Rain",,Rain
+FS01_20230409_060000_1.pt,Bird,"Bird, Wind",,Wind
+FS01_20230409_060000_2.pt,Bird,"Bird, Wind",,Wind
+FS01_20230409_060000_3.pt,Bird,"Bird, Wind",,Wind
+FS01_20230409_060000_4.pt,Bird,"Bird, Wind",,Wind
+FS01_20230409_060000_5.pt,Bird,"Bird, Wind",,Wind
+FS01_20230409_060000_6.pt,Bird,"Bird, Wind",,Wind
+FS01_20230409_060000_7.pt,Bird,"Bird, Wind",,Wind
+FS01_20230409_060000_8.pt,Bird,"Bird, Wind",,Wind
+FS01_20230409_060000_9.pt,Bird,"Bird, Wind",,Wind
+FS01_20230409_170000_1.pt,"Bird, Wind",Bird,Wind,
+FS01_20230409_170000_10.pt,"Bird, Wind",Bird,Wind,
+FS01_20230409_170000_3.pt,"Bird, Wind",Bird,Wind,
+FS01_20230409_170000_4.pt,"Bird, Wind",,"Bird, Wind",
+FS01_20230409_170000_5.pt,"Bird, Wind",Bird,Wind,
+FS01_20230409_170000_6.pt,"Bird, Wind",Bird,Wind,
+FS01_20230409_170000_7.pt,"Bird, Wind",Bird,Wind,
+FS01_20230409_170000_8.pt,"Bird, Wind",Bird,Wind,
+FS01_20230409_170000_9.pt,"Bird, Wind",Bird,Wind,
+FS01_20230409_230000_1.pt,"Bird, Owl",Bird,Owl,
+FS01_20230409_230000_10.pt,"Bird, Owl","Frog, Owl",Bird,Frog
+FS01_20230409_230000_2.pt,"Bird, Owl","Bird, Frog",Owl,Frog
+FS01_20230409_230000_4.pt,"Bird, Owl","Bird, Frog, Owl",,Frog
+FS01_20230409_230000_5.pt,"Bird, Owl","Frog, Owl",Bird,Frog
+FS01_20230409_230000_6.pt,"Bird, Owl",Bird,Owl,
+FS01_20230409_230000_7.pt,"Bird, Owl",Frog,"Bird, Owl",Frog
+FS01_20230409_230000_8.pt,"Bird, Owl","Frog, Mammal","Bird, Owl","Frog, Mammal"
+FS01_20230409_230000_9.pt,"Bird, Owl",Owl,Bird,
+FS01_20230422_063600_1.pt,"Frog, Rain","Bird, Rain",Frog,Bird
+FS01_20230422_063600_10.pt,"Frog, Rain",Rain,Frog,
+FS01_20230422_063600_2.pt,"Frog, Rain",Rain,Frog,
+FS01_20230422_063600_3.pt,"Frog, Rain","Bird, Rain",Frog,Bird
+FS01_20230422_063600_4.pt,"Frog, Rain","Bird, Rain",Frog,Bird
+FS01_20230422_063600_5.pt,"Frog, Rain","Bird, Rain",Frog,Bird
+FS01_20230422_063600_7.pt,"Frog, Rain","Bird, Rain",Frog,Bird
+FS01_20230424_015400_3.pt,Frog,"Frog, Insect",,Insect
+FS01_20230424_015400_8.pt,Frog,"Frog, Rain",,Rain
+FS01_20230503_043300_1.pt,"Frog, Insect, Rain",Frog,"Insect, Rain",
+FS01_20230503_043300_10.pt,"Frog, Insect, Rain",Frog,"Insect, Rain",
+FS01_20230503_043300_2.pt,"Frog, Insect, Rain",Frog,"Insect, Rain",
+FS01_20230503_043300_3.pt,"Frog, Insect, Rain","Frog, Insect",Rain,
+FS01_20230503_043300_4.pt,"Frog, Insect, Rain",Frog,"Insect, Rain",
+FS01_20230503_043300_5.pt,"Frog, Insect, Rain","Frog, Rain",Insect,
+FS01_20230503_043300_6.pt,"Frog, Insect, Rain",Frog,"Insect, Rain",
+FS01_20230503_043300_7.pt,"Frog, Insect, Rain",Frog,"Insect, Rain",
+FS01_20230503_043300_8.pt,"Frog, Insect, Rain",Frog,"Insect, Rain",
+FS01_20230503_043300_9.pt,"Frog, Insect, Rain","Frog, Rain",Insect,
+FS01_20230511_020000_3.pt,"Frog, Insect","Frog, Insect, Rain",,Rain
+FS01_20230512_174200_2.pt,"Frog, Insect","Bird, Frog, Insect",,Bird
+FS01_20230512_174200_3.pt,"Frog, Insect",Insect,Frog,
+FS01_20230512_174200_5.pt,"Frog, Insect",Insect,Frog,
+FS01_20230512_174200_7.pt,"Frog, Insect",Insect,Frog,
+FS01_20230512_174200_8.pt,"Frog, Insect","Bird, Insect",Frog,Bird
+FS01_20230516_090000_1.pt,"Bird, Cicada, Wind","Bird, Wind",Cicada,
+FS01_20230516_090000_10.pt,"Bird, Cicada, Wind","Bird, Wind",Cicada,
+FS01_20230516_090000_2.pt,"Bird, Cicada, Wind","Bird, Wind",Cicada,
+FS01_20230516_090000_3.pt,"Bird, Cicada, Wind","Bird, Wind",Cicada,
+FS01_20230516_090000_4.pt,"Bird, Cicada, Wind","Bird, Wind",Cicada,
+FS01_20230516_090000_8.pt,"Bird, Cicada, Wind","Bird, Wind",Cicada,
+FS01_20230517_070000_1.pt,Bird,"Bird, Insect",,Insect
+FS01_20230517_070000_10.pt,Bird,"Bird, Insect",,Insect
+FS01_20230517_070000_2.pt,Bird,"Bird, Insect",,Insect
+FS01_20230517_070000_3.pt,Bird,"Bird, Insect",,Insect
+FS01_20230517_070000_4.pt,Bird,"Bird, Insect",,Insect
+FS01_20230517_070000_5.pt,Bird,"Bird, Insect",,Insect
+FS01_20230517_070000_6.pt,Bird,"Bird, Insect",,Insect
+FS01_20230517_070000_7.pt,Bird,"Bird, Insect",,Insect
+FS01_20230517_070000_8.pt,Bird,"Bird, Insect",,Insect
+FS01_20230517_070000_9.pt,Bird,"Bird, Insect",,Insect
+FS01_20230517_132700_1.pt,"Insect, Speech, Wind","Speech, Wind",Insect,
+FS01_20230517_132700_10.pt,"Insect, Speech, Wind","Insect, Speech",Wind,
+FS01_20230517_132700_2.pt,"Insect, Speech, Wind","Speech, Wind",Insect,
+FS01_20230517_132700_3.pt,"Insect, Speech, Wind","Speech, Wind",Insect,
+FS01_20230517_132700_4.pt,"Insect, Speech, Wind","Speech, Wind",Insect,
+FS01_20230517_132700_5.pt,"Insect, Speech, Wind","Speech, Wind",Insect,
+FS01_20230517_132700_6.pt,"Insect, Speech, Wind","Speech, Wind",Insect,
+FS01_20230517_132700_7.pt,"Insect, Speech, Wind","Speech, Wind",Insect,
+FS01_20230517_132700_9.pt,"Insect, Speech, Wind","Speech, Wind",Insect,
+FS01_20230517_160000_1.pt,"Bird, Insect",Insect,Bird,
+FS01_20230517_160000_4.pt,"Bird, Insect",Insect,Bird,
+FS01_20230517_160000_7.pt,"Bird, Insect",Insect,Bird,
+FS01_20230517_180000_1.pt,"Bird, Frog, Insect","Bird, Insect",Frog,
+FS01_20230517_180000_10.pt,"Bird, Frog, Insect",Insect,"Bird, Frog",
+FS01_20230517_180000_2.pt,"Bird, Frog, Insect",Insect,"Bird, Frog",
+FS01_20230517_180000_3.pt,"Bird, Frog, Insect",Insect,"Bird, Frog",
+FS01_20230517_180000_4.pt,"Bird, Frog, Insect","Frog, Insect",Bird,
+FS01_20230517_180000_5.pt,"Bird, Frog, Insect","Bird, Insect",Frog,
+FS01_20230517_180000_6.pt,"Bird, Frog, Insect",Insect,"Bird, Frog",
+FS01_20230517_180000_7.pt,"Bird, Frog, Insect","Frog, Insect",Bird,
+FS01_20230517_180000_8.pt,"Bird, Frog, Insect","Bird, Insect",Frog,
+FS01_20230517_180000_9.pt,"Bird, Frog, Insect","Frog, Insect",Bird,
+FS01_20230525_155100_1.pt,"Cicada, Frog, Wind","Cicada, Frog",Wind,
+FS01_20230525_155100_10.pt,"Cicada, Frog, Wind","Cicada, Frog",Wind,
+FS01_20230525_155100_2.pt,"Cicada, Frog, Wind","Cicada, Frog, Insect",Wind,Insect
+FS01_20230525_155100_3.pt,"Cicada, Frog, Wind",Insect,"Cicada, Frog, Wind",Insect
+FS01_20230525_155100_4.pt,"Cicada, Frog, Wind","Cicada, Frog, Insect",Wind,Insect
+FS01_20230525_155100_5.pt,"Cicada, Frog, Wind","Frog, Insect, Wind",Cicada,Insect
+FS01_20230525_155100_6.pt,"Cicada, Frog, Wind","Cicada, Frog, Insect",Wind,Insect
+FS01_20230525_155100_7.pt,"Cicada, Frog, Wind","Bird, Cicada","Frog, Wind",Bird
+FS01_20230525_155100_8.pt,"Cicada, Frog, Wind","Cicada, Frog",Wind,
+FS01_20230525_155100_9.pt,"Cicada, Frog, Wind","Cicada, Frog",Wind,
+FS01_20230620_080000_1.pt,"Bird, Cicada",Cicada,Bird,
+FS01_20230620_080000_10.pt,"Bird, Cicada",Cicada,Bird,
+FS01_20230620_080000_2.pt,"Bird, Cicada",Cicada,Bird,
+FS01_20230620_080000_3.pt,"Bird, Cicada",Cicada,Bird,
+FS01_20230620_080000_4.pt,"Bird, Cicada",Cicada,Bird,
+FS01_20230620_080000_5.pt,"Bird, Cicada",Cicada,Bird,
+FS01_20230620_080000_6.pt,"Bird, Cicada",Cicada,Bird,
+FS01_20230620_080000_7.pt,"Bird, Cicada",Cicada,Bird,
+FS01_20230620_080000_8.pt,"Bird, Cicada",Cicada,Bird,
+FS01_20230620_080000_9.pt,"Bird, Cicada",Cicada,Bird,
+FS01_20230620_133300_1.pt,"Cicada, Frog",Cicada,Frog,
+FS01_20230620_133300_10.pt,"Cicada, Frog",Cicada,Frog,
+FS01_20230620_133300_2.pt,"Cicada, Frog",Cicada,Frog,
+FS01_20230620_133300_3.pt,"Cicada, Frog",Cicada,Frog,
+FS01_20230620_133300_4.pt,"Cicada, Frog",Cicada,Frog,
+FS01_20230620_133300_5.pt,"Cicada, Frog",Cicada,Frog,
+FS01_20230620_133300_6.pt,"Cicada, Frog",Cicada,Frog,
+FS01_20230620_133300_7.pt,"Cicada, Frog",Cicada,Frog,
+FS01_20230620_133300_8.pt,"Cicada, Frog",Cicada,Frog,
+FS01_20230620_133300_9.pt,"Cicada, Frog",Cicada,Frog,
+FS01_20230703_100900_10.pt,"Cicada, Speech",Cicada,Speech,
+FS01_20230703_100900_3.pt,"Cicada, Speech",Cicada,Speech,
+FS01_20230703_100900_4.pt,"Cicada, Speech",Cicada,Speech,
+FS01_20230715_072400_1.pt,"Aircraft, Cicada, Frog",Cicada,"Aircraft, Frog",
+FS01_20230715_072400_10.pt,"Aircraft, Cicada, Frog",Cicada,"Aircraft, Frog",
+FS01_20230715_072400_2.pt,"Aircraft, Cicada, Frog","Cicada, Frog",Aircraft,
+FS01_20230715_072400_3.pt,"Aircraft, Cicada, Frog",Cicada,"Aircraft, Frog",
+FS01_20230715_072400_4.pt,"Aircraft, Cicada, Frog",Cicada,"Aircraft, Frog",
+FS01_20230715_072400_5.pt,"Aircraft, Cicada, Frog",Cicada,"Aircraft, Frog",
+FS01_20230715_072400_6.pt,"Aircraft, Cicada, Frog","Cicada, Speech","Aircraft, Frog",Speech
+FS01_20230715_072400_7.pt,"Aircraft, Cicada, Frog","Cicada, Frog",Aircraft,
+FS01_20230715_072400_8.pt,"Aircraft, Cicada, Frog",Cicada,"Aircraft, Frog",
+FS01_20230715_072400_9.pt,"Aircraft, Cicada, Frog",Cicada,"Aircraft, Frog",
+FS01_20230718_170000_1.pt,"Cicada, Frog, Rain","Cicada, Rain",Frog,
+FS01_20230718_170000_10.pt,"Cicada, Frog, Rain","Cicada, Rain",Frog,
+FS01_20230718_170000_2.pt,"Cicada, Frog, Rain","Cicada, Rain",Frog,
+FS01_20230718_170000_3.pt,"Cicada, Frog, Rain","Cicada, Rain",Frog,
+FS01_20230718_170000_4.pt,"Cicada, Frog, Rain","Cicada, Rain",Frog,
+FS01_20230718_170000_5.pt,"Cicada, Frog, Rain","Cicada, Rain",Frog,
+FS01_20230718_170000_6.pt,"Cicada, Frog, Rain","Cicada, Rain",Frog,
+FS01_20230718_170000_7.pt,"Cicada, Frog, Rain",Rain,"Cicada, Frog",
+FS01_20230718_170000_8.pt,"Cicada, Frog, Rain",Rain,"Cicada, Frog",
+FS01_20230718_170000_9.pt,"Cicada, Frog, Rain","Cicada, Rain",Frog,
+FS01_20230724_115100_1.pt,"Cicada, Speech, Wind","Cicada, Speech",Wind,
+FS01_20230724_115100_3.pt,"Cicada, Speech, Wind","Cicada, Speech",Wind,
+FS01_20230724_115100_8.pt,"Cicada, Speech, Wind","Cicada, Speech",Wind,
+FS01_20230724_115100_9.pt,"Cicada, Speech, Wind","Cicada, Speech",Wind,
+FS01_20230728_183600_1.pt,"Aircraft, Cicada, Frog","Cicada, Frog",Aircraft,
+FS01_20230728_183600_10.pt,"Aircraft, Cicada, Frog","Cicada, Frog",Aircraft,
+FS01_20230728_183600_2.pt,"Aircraft, Cicada, Frog","Cicada, Frog",Aircraft,
+FS01_20230728_183600_3.pt,"Aircraft, Cicada, Frog","Cicada, Frog",Aircraft,
+FS01_20230728_183600_4.pt,"Aircraft, Cicada, Frog","Cicada, Frog",Aircraft,
+FS01_20230728_183600_5.pt,"Aircraft, Cicada, Frog","Cicada, Frog",Aircraft,
+FS01_20230728_183600_6.pt,"Aircraft, Cicada, Frog","Cicada, Frog",Aircraft,
+FS01_20230728_183600_7.pt,"Aircraft, Cicada, Frog","Cicada, Frog",Aircraft,
+FS01_20230728_183600_8.pt,"Aircraft, Cicada, Frog","Cicada, Frog",Aircraft,
+FS01_20230728_183600_9.pt,"Aircraft, Cicada, Frog","Cicada, Frog",Aircraft,
+FS01_20230804_010000_1.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS01_20230804_010000_10.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS01_20230804_010000_2.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS01_20230804_010000_3.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS01_20230804_010000_4.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS01_20230805_130900_1.pt,"Cicada, Speech","Cicada, Speech, Wind",,Wind
+FS01_20230805_130900_10.pt,"Cicada, Speech","Cicada, Speech, Wind",,Wind
+FS01_20230805_130900_3.pt,"Cicada, Speech","Cicada, Speech, Wind",,Wind
+FS01_20230805_130900_4.pt,"Cicada, Speech","Cicada, Speech, Wind",,Wind
+FS01_20230805_130900_5.pt,"Cicada, Speech","Cicada, Speech, Wind",,Wind
+FS01_20230805_130900_6.pt,"Cicada, Speech","Cicada, Speech, Wind",,Wind
+FS01_20230805_130900_7.pt,"Cicada, Speech","Cicada, Speech, Wind",,Wind
+FS01_20230805_130900_8.pt,"Cicada, Speech","Speech, Wind",Cicada,Wind
+FS01_20230805_130900_9.pt,"Cicada, Speech","Cicada, Speech, Wind",,Wind
+FS01_20230814_133000_1.pt,"Cicada, Frog, Insect, Speech","Cicada, Insect, Speech",Frog,
+FS01_20230814_133000_10.pt,"Cicada, Frog, Insect, Speech","Cicada, Insect, Speech",Frog,
+FS01_20230814_133000_2.pt,"Cicada, Frog, Insect, Speech","Cicada, Insect, Speech",Frog,
+FS01_20230814_133000_3.pt,"Cicada, Frog, Insect, Speech","Cicada, Insect, Speech",Frog,
+FS01_20230814_133000_4.pt,"Cicada, Frog, Insect, Speech","Cicada, Frog, Insect",Speech,
+FS01_20230814_133000_5.pt,"Cicada, Frog, Insect, Speech","Cicada, Frog, Insect",Speech,
+FS01_20230814_133000_6.pt,"Cicada, Frog, Insect, Speech","Cicada, Insect, Speech",Frog,
+FS01_20230814_133000_7.pt,"Cicada, Frog, Insect, Speech","Cicada, Insect, Speech",Frog,
+FS01_20230814_133000_8.pt,"Cicada, Frog, Insect, Speech","Cicada, Insect, Speech",Frog,
+FS01_20230814_133000_9.pt,"Cicada, Frog, Insect, Speech","Cicada, Insect, Speech",Frog,
+FS01_20230816_113600_1.pt,"Bird, Cicada, Insect, Speech","Cicada, Speech","Bird, Insect",
+FS01_20230816_113600_10.pt,"Bird, Cicada, Insect, Speech","Bird, Insect, Speech",Cicada,
+FS01_20230816_113600_2.pt,"Bird, Cicada, Insect, Speech","Cicada, Insect, Speech",Bird,
+FS01_20230816_113600_3.pt,"Bird, Cicada, Insect, Speech","Cicada, Insect, Speech",Bird,
+FS01_20230816_113600_4.pt,"Bird, Cicada, Insect, Speech","Cicada, Insect, Speech",Bird,
+FS01_20230816_113600_5.pt,"Bird, Cicada, Insect, Speech","Cicada, Speech","Bird, Insect",
+FS01_20230816_113600_6.pt,"Bird, Cicada, Insect, Speech","Cicada, Insect, Speech",Bird,
+FS01_20230816_113600_7.pt,"Bird, Cicada, Insect, Speech","Cicada, Insect, Speech",Bird,
+FS01_20230816_113600_8.pt,"Bird, Cicada, Insect, Speech","Cicada, Insect, Speech",Bird,
+FS01_20230816_113600_9.pt,"Bird, Cicada, Insect, Speech","Bird, Insect, Speech",Cicada,
+FS01_20230909_095100_1.pt,"Cicada, Insect, Speech","Bird, Insect, Speech, Wind",Cicada,"Bird, Wind"
+FS01_20230909_095100_10.pt,"Cicada, Insect, Speech","Insect, Speech, Wind",Cicada,Wind
+FS01_20230909_095100_2.pt,"Cicada, Insect, Speech","Bird, Insect, Speech",Cicada,Bird
+FS01_20230909_095100_3.pt,"Cicada, Insect, Speech","Bird, Cicada, Insect, Speech",,Bird
+FS01_20230909_095100_4.pt,"Cicada, Insect, Speech","Bird, Insect, Speech",Cicada,Bird
+FS01_20230909_095100_5.pt,"Cicada, Insect, Speech","Bird, Insect, Speech",Cicada,Bird
+FS01_20230909_095100_6.pt,"Cicada, Insect, Speech","Bird, Insect, Speech",Cicada,Bird
+FS01_20230909_095100_7.pt,"Cicada, Insect, Speech","Bird, Insect, Speech",Cicada,Bird
+FS01_20230909_095100_8.pt,"Cicada, Insect, Speech","Bird, Insect, Speech",Cicada,Bird
+FS01_20230909_095100_9.pt,"Cicada, Insect, Speech","Bird, Insect, Speech, Wind",Cicada,"Bird, Wind"
+FS01_20230914_072100_1.pt,"Bird, Cicada, Insect","Cicada, Insect",Bird,
+FS01_20230914_072100_10.pt,"Bird, Cicada, Insect","Cicada, Insect",Bird,
+FS01_20230914_072100_3.pt,"Bird, Cicada, Insect","Cicada, Insect",Bird,
+FS01_20230914_072100_4.pt,"Bird, Cicada, Insect","Cicada, Insect",Bird,
+FS01_20230914_072100_6.pt,"Bird, Cicada, Insect","Cicada, Insect",Bird,
+FS01_20230914_145400_1.pt,"Cicada, Insect, Speech, Wind","Aircraft, Bird, Cicada, Insect, Speech",Wind,"Aircraft, Bird"
+FS01_20230914_145400_10.pt,"Cicada, Insect, Speech, Wind","Aircraft, Bird, Cicada, Insect, Speech",Wind,"Aircraft, Bird"
+FS01_20230914_145400_2.pt,"Cicada, Insect, Speech, Wind","Aircraft, Bird, Cicada, Insect, Speech",Wind,"Aircraft, Bird"
+FS01_20230914_145400_3.pt,"Cicada, Insect, Speech, Wind","Bird, Cicada, Insect, Speech",Wind,Bird
+FS01_20230914_145400_4.pt,"Cicada, Insect, Speech, Wind","Bird, Cicada, Insect, Speech",Wind,Bird
+FS01_20230914_145400_5.pt,"Cicada, Insect, Speech, Wind","Bird, Cicada, Insect, Speech",Wind,Bird
+FS01_20230914_145400_6.pt,"Cicada, Insect, Speech, Wind","Bird, Cicada, Insect, Speech",Wind,Bird
+FS01_20230914_145400_7.pt,"Cicada, Insect, Speech, Wind","Aircraft, Bird, Cicada, Insect, Speech",Wind,"Aircraft, Bird"
+FS01_20230914_145400_8.pt,"Cicada, Insect, Speech, Wind","Aircraft, Bird, Cicada, Insect, Speech",Wind,"Aircraft, Bird"
+FS01_20230914_145400_9.pt,"Cicada, Insect, Speech, Wind","Aircraft, Bird, Cicada, Insect, Speech",Wind,"Aircraft, Bird"
+FS01_20230921_164200_1.pt,"Frog, Insect, Rain","Frog, Insect",Rain,
+FS01_20230921_164200_10.pt,"Frog, Insect, Rain","Frog, Insect",Rain,
+FS01_20230921_164200_2.pt,"Frog, Insect, Rain",Insect,"Frog, Rain",
+FS01_20230921_164200_3.pt,"Frog, Insect, Rain","Frog, Insect",Rain,
+FS01_20230921_164200_4.pt,"Frog, Insect, Rain","Frog, Insect",Rain,
+FS01_20230921_164200_5.pt,"Frog, Insect, Rain","Frog, Insect",Rain,
+FS01_20230921_164200_6.pt,"Frog, Insect, Rain","Frog, Insect",Rain,
+FS01_20230921_164200_7.pt,"Frog, Insect, Rain","Frog, Insect",Rain,
+FS01_20230921_164200_8.pt,"Frog, Insect, Rain","Frog, Insect",Rain,
+FS01_20230921_164200_9.pt,"Frog, Insect, Rain","Frog, Insect",Rain,
+FS01_20230924_080300_10.pt,"Bird, Cicada, Insect","Cicada, Insect",Bird,
+FS01_20230924_080300_2.pt,"Bird, Cicada, Insect","Cicada, Insect",Bird,
+FS01_20230924_080300_4.pt,"Bird, Cicada, Insect","Cicada, Insect",Bird,
+FS01_20230924_080300_5.pt,"Bird, Cicada, Insect","Cicada, Insect",Bird,
+FS01_20230924_080300_6.pt,"Bird, Cicada, Insect","Cicada, Insect",Bird,
+FS01_20230924_080300_7.pt,"Bird, Cicada, Insect","Cicada, Insect",Bird,
+FS01_20230924_080300_9.pt,"Bird, Cicada, Insect","Cicada, Insect",Bird,
+FS01_20230925_104800_3.pt,"Bird, Insect, Speech, Wind","Insect, Speech","Bird, Wind",
+FS01_20230925_104800_4.pt,"Bird, Insect, Speech, Wind","Insect, Speech, Wind",Bird,
+FS01_20230925_104800_5.pt,"Bird, Insect, Speech, Wind","Insect, Speech, Wind",Bird,
+FS01_20230925_104800_6.pt,"Bird, Insect, Speech, Wind","Insect, Speech, Wind",Bird,
+FS01_20230925_104800_7.pt,"Bird, Insect, Speech, Wind","Insect, Speech, Wind",Bird,
+FS01_20230925_104800_8.pt,"Bird, Insect, Speech, Wind","Insect, Speech, Wind",Bird,
+FS01_20231007_042700_10.pt,"Frog, Insect",Insect,Frog,
+FS01_20231007_042700_2.pt,"Frog, Insect","Insect, Stream",Frog,Stream
+FS01_20231007_042700_3.pt,"Frog, Insect",Insect,Frog,
+FS01_20231007_042700_4.pt,"Frog, Insect",Insect,Frog,
+FS01_20231007_042700_5.pt,"Frog, Insect",Insect,Frog,
+FS01_20231007_042700_6.pt,"Frog, Insect",Insect,Frog,
+FS01_20231007_042700_7.pt,"Frog, Insect",Insect,Frog,
+FS01_20231007_042700_8.pt,"Frog, Insect",Insect,Frog,
+FS01_20231007_042700_9.pt,"Frog, Insect",Insect,Frog,
+FS01_20231010_065700_1.pt,"Bird, Rain","Insect, Rain",Bird,Insect
+FS01_20231010_065700_10.pt,"Bird, Rain","Bird, Insect, Rain",,Insect
+FS01_20231010_065700_3.pt,"Bird, Rain","Insect, Rain",Bird,Insect
+FS01_20231010_065700_4.pt,"Bird, Rain","Bird, Insect, Rain",,Insect
+FS01_20231010_065700_5.pt,"Bird, Rain","Bird, Insect, Rain",,Insect
+FS01_20231010_065700_6.pt,"Bird, Rain","Insect, Rain",Bird,Insect
+FS01_20231010_065700_7.pt,"Bird, Rain","Bird, Insect, Rain",,Insect
+FS01_20231010_065700_8.pt,"Bird, Rain","Bird, Insect, Rain",,Insect
+FS01_20231010_065700_9.pt,"Bird, Rain","Insect, Rain",Bird,Insect
+FS01_20231024_170000_1.pt,"Bird, Insect",Insect,Bird,
+FS01_20231024_170000_10.pt,"Bird, Insect",Insect,Bird,
+FS01_20231024_170000_3.pt,"Bird, Insect",Insect,Bird,
+FS01_20231024_170000_4.pt,"Bird, Insect",Insect,Bird,
+FS01_20231024_170000_5.pt,"Bird, Insect",Insect,Bird,
+FS01_20231024_170000_7.pt,"Bird, Insect",Insect,Bird,
+FS01_20231024_170000_8.pt,"Bird, Insect",Insect,Bird,
+FS01_20231024_170000_9.pt,"Bird, Insect",Insect,Bird,
+FS01_20231024_220000_1.pt,"Insect, Wind",Insect,Wind,
+FS01_20231024_220000_10.pt,"Insect, Wind",Insect,Wind,
+FS01_20231024_220000_2.pt,"Insect, Wind",Insect,Wind,
+FS01_20231024_220000_3.pt,"Insect, Wind",Insect,Wind,
+FS01_20231024_220000_4.pt,"Insect, Wind",Insect,Wind,
+FS01_20231024_220000_5.pt,"Insect, Wind",Insect,Wind,
+FS01_20231024_220000_6.pt,"Insect, Wind",Insect,Wind,
+FS01_20231024_220000_7.pt,"Insect, Wind",Insect,Wind,
+FS01_20231024_220000_8.pt,"Insect, Wind",Insect,Wind,
+FS01_20231024_220000_9.pt,"Insect, Wind",Insect,Wind,
+FS01_20231104_025400_10.pt,"Frog, Insect",Insect,Frog,
+FS01_20231104_025400_9.pt,"Frog, Insect",Insect,Frog,
+FS01_20231121_020000_1.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS01_20231121_020000_10.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS01_20231121_020000_2.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS01_20231121_020000_3.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS01_20231121_020000_4.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS01_20231121_020000_5.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS01_20231121_020000_6.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS01_20231121_020000_7.pt,"Frog, Insect, Wind",Insect,"Frog, Wind",
+FS01_20231121_020000_8.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS01_20231121_020000_9.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS01_20231121_130000_9.pt,"Insect, Wind","Bird, Insect, Wind",,Bird
+FS01_20231121_210000_1.pt,"Frog, Insect",Insect,Frog,
+FS01_20231121_210000_10.pt,"Frog, Insect",Insect,Frog,
+FS01_20231121_210000_2.pt,"Frog, Insect",Insect,Frog,
+FS01_20231121_210000_3.pt,"Frog, Insect",Insect,Frog,
+FS01_20231121_210000_4.pt,"Frog, Insect",Insect,Frog,
+FS01_20231121_210000_5.pt,"Frog, Insect",Insect,Frog,
+FS01_20231121_210000_6.pt,"Frog, Insect",Insect,Frog,
+FS01_20231121_210000_7.pt,"Frog, Insect",Insect,Frog,
+FS01_20231121_210000_8.pt,"Frog, Insect",Insect,Frog,
+FS01_20231121_210000_9.pt,"Frog, Insect",Insect,Frog,
+FS01_20231127_124500_1.pt,"Bird, Insect, Speech, Wind","Insect, Speech, Wind",Bird,
+FS01_20231127_124500_10.pt,"Bird, Insect, Speech, Wind","Insect, Speech, Wind",Bird,
+FS01_20231127_124500_2.pt,"Bird, Insect, Speech, Wind","Insect, Wind","Bird, Speech",
+FS01_20231127_124500_3.pt,"Bird, Insect, Speech, Wind","Speech, Wind","Bird, Insect",
+FS01_20231127_124500_4.pt,"Bird, Insect, Speech, Wind","Insect, Speech, Wind",Bird,
+FS01_20231127_124500_5.pt,"Bird, Insect, Speech, Wind","Insect, Speech, Wind",Bird,
+FS01_20231127_124500_6.pt,"Bird, Insect, Speech, Wind","Bird, Speech","Insect, Wind",
+FS01_20231127_124500_7.pt,"Bird, Insect, Speech, Wind","Insect, Speech, Wind",Bird,
+FS01_20231127_124500_8.pt,"Bird, Insect, Speech, Wind","Insect, Speech","Bird, Wind",
+FS01_20231127_124500_9.pt,"Bird, Insect, Speech, Wind","Bird, Speech","Insect, Wind",
+FS01_20231129_182700_2.pt,Insect,"Cicada, Insect",,Cicada
+FS01_20231129_182700_3.pt,Insect,"Cicada, Insect",,Cicada
+FS01_20231129_182700_4.pt,Insect,"Cicada, Insect",,Cicada
+FS01_20231129_182700_5.pt,Insect,"Cicada, Insect",,Cicada
+FS01_20231129_182700_6.pt,Insect,"Cicada, Insect",,Cicada
+FS01_20231129_182700_8.pt,Insect,"Insect, Speech",,Speech
+FS01_20231210_005700_1.pt,Insect,"Insect, Wind",,Wind
+FS01_20231210_005700_10.pt,Insect,"Insect, Wind",,Wind
+FS01_20231210_005700_2.pt,Insect,"Insect, Wind",,Wind
+FS01_20231210_005700_3.pt,Insect,"Insect, Wind",,Wind
+FS01_20231210_005700_4.pt,Insect,"Insect, Wind",,Wind
+FS01_20231210_005700_6.pt,Insect,"Insect, Wind",,Wind
+FS01_20231210_005700_7.pt,Insect,"Insect, Wind",,Wind
+FS01_20231210_005700_8.pt,Insect,"Insect, Wind",,Wind
+FS01_20231210_005700_9.pt,Insect,"Insect, Wind",,Wind
+FS01_20231226_011800_8.pt,Wind,"Bird, Wind",,Bird
+FS01_20231230_020000_1.pt,"Frog, Insect, Rain","Insect, Rain",Frog,
+FS01_20231230_020000_10.pt,"Frog, Insect, Rain","Insect, Rain",Frog,
+FS01_20231230_020000_2.pt,"Frog, Insect, Rain","Insect, Rain",Frog,
+FS01_20231230_020000_3.pt,"Frog, Insect, Rain","Insect, Rain",Frog,
+FS01_20231230_020000_4.pt,"Frog, Insect, Rain","Insect, Rain",Frog,
+FS01_20231230_020000_5.pt,"Frog, Insect, Rain","Insect, Rain",Frog,
+FS01_20231230_020000_6.pt,"Frog, Insect, Rain","Insect, Rain",Frog,
+FS01_20231230_020000_7.pt,"Frog, Insect, Rain","Insect, Rain",Frog,
+FS01_20231230_020000_8.pt,"Frog, Insect, Rain","Insect, Rain",Frog,
+FS01_20231230_020000_9.pt,"Frog, Insect, Rain","Insect, Rain",Frog,
+FS02_20230115_080000_5.pt,Wind,Stream,Wind,Stream
+FS02_20230115_120000_1.pt,"Bird, Wind",,"Bird, Wind",
+FS02_20230115_120000_10.pt,"Bird, Wind","Bird, Rain",Wind,Rain
+FS02_20230115_120000_2.pt,"Bird, Wind",Wind,Bird,
+FS02_20230115_120000_3.pt,"Bird, Wind",Wind,Bird,
+FS02_20230115_120000_4.pt,"Bird, Wind",Rain,"Bird, Wind",Rain
+FS02_20230115_120000_6.pt,"Bird, Wind","Bird, Rain",Wind,Rain
+FS02_20230115_120000_7.pt,"Bird, Wind",Rain,"Bird, Wind",Rain
+FS02_20230115_120000_8.pt,"Bird, Wind",Bird,Wind,
+FS02_20230115_120000_9.pt,"Bird, Wind","Bird, Rain",Wind,Rain
+FS02_20230201_203600_10.pt,"Frog, Wind",Wind,Frog,
+FS02_20230201_203600_2.pt,"Frog, Wind",Wind,Frog,
+FS02_20230201_203600_3.pt,"Frog, Wind",Frog,Wind,
+FS02_20230201_203600_9.pt,"Frog, Wind",Wind,Frog,
+FS02_20230207_054200_10.pt,Rain,"Rain, Wind",,Wind
+FS02_20230207_054200_6.pt,Rain,"Rain, Wind",,Wind
+FS02_20230217_182400_1.pt,"Frog, Owl, Wind","Frog, Owl",Wind,
+FS02_20230217_182400_10.pt,"Frog, Owl, Wind",Frog,"Owl, Wind",
+FS02_20230217_182400_2.pt,"Frog, Owl, Wind","Frog, Owl",Wind,
+FS02_20230217_182400_3.pt,"Frog, Owl, Wind","Frog, Owl",Wind,
+FS02_20230217_182400_4.pt,"Frog, Owl, Wind",Frog,"Owl, Wind",
+FS02_20230217_182400_5.pt,"Frog, Owl, Wind",Frog,"Owl, Wind",
+FS02_20230217_182400_6.pt,"Frog, Owl, Wind",Frog,"Owl, Wind",
+FS02_20230217_182400_7.pt,"Frog, Owl, Wind","Frog, Owl",Wind,
+FS02_20230217_182400_8.pt,"Frog, Owl, Wind","Frog, Owl",Wind,
+FS02_20230217_182400_9.pt,"Frog, Owl, Wind","Frog, Owl",Wind,
+FS02_20230219_070000_1.pt,"Bird, Rain",Rain,Bird,
+FS02_20230219_070000_2.pt,"Bird, Rain",Rain,Bird,
+FS02_20230219_070000_3.pt,"Bird, Rain",Rain,Bird,
+FS02_20230219_070000_4.pt,"Bird, Rain",Rain,Bird,
+FS02_20230219_070000_5.pt,"Bird, Rain",Rain,Bird,
+FS02_20230219_070000_6.pt,"Bird, Rain",Rain,Bird,
+FS02_20230219_070000_9.pt,"Bird, Rain",Rain,Bird,
+FS02_20230219_150000_10.pt,Rain,"Aircraft, Owl",Rain,"Aircraft, Owl"
+FS02_20230219_150000_2.pt,Rain,"Rain, Wind",,Wind
+FS02_20230219_150000_6.pt,Rain,Owl,Rain,Owl
+FS02_20230219_150000_7.pt,Rain,"Aircraft, Owl",Rain,"Aircraft, Owl"
+FS02_20230219_150000_8.pt,Rain,"Aircraft, Owl, Rain",,"Aircraft, Owl"
+FS02_20230219_150000_9.pt,Rain,"Aircraft, Owl, Rain",,"Aircraft, Owl"
+FS02_20230307_160000_10.pt,"Bird, Wind",Wind,Bird,
+FS02_20230307_160000_5.pt,"Bird, Wind",Wind,Bird,
+FS02_20230307_160000_7.pt,"Bird, Wind",Wind,Bird,
+FS02_20230307_160000_8.pt,"Bird, Wind",Wind,Bird,
+FS02_20230307_160000_9.pt,"Bird, Wind",Wind,Bird,
+FS02_20230311_083300_1.pt,Insect,,Insect,
+FS02_20230311_083300_10.pt,Insect,,Insect,
+FS02_20230311_083300_2.pt,Insect,,Insect,
+FS02_20230311_083300_3.pt,Insect,Bird,Insect,Bird
+FS02_20230311_083300_4.pt,Insect,,Insect,
+FS02_20230311_083300_5.pt,Insect,Bird,Insect,Bird
+FS02_20230311_083300_6.pt,Insect,,Insect,
+FS02_20230311_083300_7.pt,Insect,Bird,Insect,Bird
+FS02_20230311_083300_8.pt,Insect,,Insect,
+FS02_20230311_083300_9.pt,Insect,,Insect,
+FS02_20230316_171800_1.pt,Cicada,"Cicada, Wind",,Wind
+FS02_20230316_171800_10.pt,Cicada,Wind,Cicada,Wind
+FS02_20230316_171800_2.pt,Cicada,"Cicada, Wind",,Wind
+FS02_20230316_171800_3.pt,Cicada,Wind,Cicada,Wind
+FS02_20230316_171800_4.pt,Cicada,Wind,Cicada,Wind
+FS02_20230316_171800_5.pt,Cicada,"Cicada, Wind",,Wind
+FS02_20230316_171800_6.pt,Cicada,"Cicada, Wind",,Wind
+FS02_20230316_171800_7.pt,Cicada,Wind,Cicada,Wind
+FS02_20230316_171800_8.pt,Cicada,"Cicada, Wind",,Wind
+FS02_20230316_171800_9.pt,Cicada,Wind,Cicada,Wind
+FS02_20230322_220000_5.pt,"Insect, Owl","Frog, Insect",Owl,Frog
+FS02_20230322_220000_8.pt,"Insect, Owl","Frog, Insect",Owl,Frog
+FS02_20230322_220000_9.pt,"Insect, Owl","Frog, Insect",Owl,Frog
+FS02_20230401_225700_9.pt,"Frog, Rain","Frog, Insect, Rain",,Insect
+FS02_20230402_073600_1.pt,"Bird, Cicada, Rain",Rain,"Bird, Cicada",
+FS02_20230402_073600_10.pt,"Bird, Cicada, Rain",Rain,"Bird, Cicada",
+FS02_20230402_073600_2.pt,"Bird, Cicada, Rain",Rain,"Bird, Cicada",
+FS02_20230402_073600_4.pt,"Bird, Cicada, Rain",Rain,"Bird, Cicada",
+FS02_20230402_073600_5.pt,"Bird, Cicada, Rain",Rain,"Bird, Cicada",
+FS02_20230402_073600_6.pt,"Bird, Cicada, Rain","Bird, Rain",Cicada,
+FS02_20230402_073600_7.pt,"Bird, Cicada, Rain","Bird, Rain",Cicada,
+FS02_20230402_073600_8.pt,"Bird, Cicada, Rain","Cicada, Rain",Bird,
+FS02_20230402_073600_9.pt,"Bird, Cicada, Rain","Bird, Rain",Cicada,
+FS02_20230408_140300_10.pt,Bird,,Bird,
+FS02_20230408_140300_2.pt,Bird,,Bird,
+FS02_20230408_140300_3.pt,Bird,,Bird,
+FS02_20230408_140300_4.pt,Bird,,Bird,
+FS02_20230408_140300_5.pt,Bird,,Bird,
+FS02_20230416_024500_2.pt,Rain,"Frog, Rain",,Frog
+FS02_20230416_024500_4.pt,Rain,,Rain,
+FS02_20230428_231800_1.pt,"Frog, Insect",Insect,Frog,
+FS02_20230428_231800_2.pt,"Frog, Insect",Insect,Frog,
+FS02_20230428_231800_3.pt,"Frog, Insect",Insect,Frog,
+FS02_20230428_231800_5.pt,"Frog, Insect","Insect, Rain",Frog,Rain
+FS02_20230428_231800_8.pt,"Frog, Insect",Insect,Frog,
+FS02_20230428_231800_9.pt,"Frog, Insect",Insect,Frog,
+FS02_20230515_135400_1.pt,"Bird, Insect, Wind","Bird, Insect",Wind,
+FS02_20230515_135400_10.pt,"Bird, Insect, Wind","Bird, Insect",Wind,
+FS02_20230515_135400_2.pt,"Bird, Insect, Wind","Bird, Insect",Wind,
+FS02_20230515_135400_3.pt,"Bird, Insect, Wind","Bird, Insect",Wind,
+FS02_20230515_135400_4.pt,"Bird, Insect, Wind","Bird, Insect",Wind,
+FS02_20230515_135400_5.pt,"Bird, Insect, Wind","Bird, Insect, Speech",Wind,Speech
+FS02_20230515_135400_6.pt,"Bird, Insect, Wind","Bird, Insect",Wind,
+FS02_20230515_135400_7.pt,"Bird, Insect, Wind","Bird, Insect",Wind,
+FS02_20230515_135400_8.pt,"Bird, Insect, Wind","Insect, Speech","Bird, Wind",Speech
+FS02_20230515_135400_9.pt,"Bird, Insect, Wind","Insect, Speech","Bird, Wind",Speech
+FS02_20230517_090000_10.pt,"Bird, Insect","Bird, Insect, Wind",,Wind
+FS02_20230613_155100_4.pt,Cicada,"Cicada, Stream",,Stream
+FS02_20230616_142700_6.pt,Cicada,"Cicada, Rain",,Rain
+FS02_20230616_142700_7.pt,Cicada,"Cicada, Rain",,Rain
+FS02_20230616_142700_8.pt,Cicada,"Cicada, Rain",,Rain
+FS02_20230620_130000_9.pt,Cicada,"Cicada, Rain",,Rain
+FS02_20230622_145400_1.pt,"Aircraft, Cicada",Cicada,Aircraft,
+FS02_20230622_145400_10.pt,"Aircraft, Cicada",Cicada,Aircraft,
+FS02_20230622_145400_2.pt,"Aircraft, Cicada",Cicada,Aircraft,
+FS02_20230622_145400_3.pt,"Aircraft, Cicada",Cicada,Aircraft,
+FS02_20230622_145400_4.pt,"Aircraft, Cicada",Cicada,Aircraft,
+FS02_20230622_145400_5.pt,"Aircraft, Cicada",Cicada,Aircraft,
+FS02_20230622_145400_6.pt,"Aircraft, Cicada",Cicada,Aircraft,
+FS02_20230622_145400_7.pt,"Aircraft, Cicada",Cicada,Aircraft,
+FS02_20230622_145400_8.pt,"Aircraft, Cicada",Cicada,Aircraft,
+FS02_20230622_145400_9.pt,"Aircraft, Cicada",Cicada,Aircraft,
+FS02_20230703_012700_1.pt,Insect,"Insect, Stream",,Stream
+FS02_20230703_012700_2.pt,Insect,"Insect, Stream",,Stream
+FS02_20230703_012700_4.pt,Insect,"Insect, Stream",,Stream
+FS02_20230703_012700_6.pt,Insect,"Insect, Stream",,Stream
+FS02_20230707_025700_8.pt,Insect,"Insect, Owl",,Owl
+FS02_20230718_040000_4.pt,"Insect, Rain","Frog, Insect, Rain",,Frog
+FS02_20230728_090300_1.pt,"Cicada, Stream","Cicada, Wind",Stream,Wind
+FS02_20230728_090300_10.pt,"Cicada, Stream","Cicada, Wind",Stream,Wind
+FS02_20230728_090300_8.pt,"Cicada, Stream",Cicada,Stream,
+FS02_20230728_090300_9.pt,"Cicada, Stream",Cicada,Stream,
+FS02_20230728_112700_1.pt,"Cicada, Rain","Cicada, Stream",Rain,Stream
+FS02_20230728_112700_10.pt,"Cicada, Rain","Cicada, Stream",Rain,Stream
+FS02_20230728_112700_2.pt,"Cicada, Rain","Cicada, Stream",Rain,Stream
+FS02_20230728_112700_3.pt,"Cicada, Rain","Cicada, Stream",Rain,Stream
+FS02_20230728_112700_4.pt,"Cicada, Rain","Cicada, Stream",Rain,Stream
+FS02_20230728_112700_5.pt,"Cicada, Rain","Cicada, Stream",Rain,Stream
+FS02_20230728_112700_6.pt,"Cicada, Rain","Cicada, Stream",Rain,Stream
+FS02_20230728_112700_7.pt,"Cicada, Rain","Cicada, Stream",Rain,Stream
+FS02_20230728_112700_8.pt,"Cicada, Rain","Cicada, Stream",Rain,Stream
+FS02_20230728_112700_9.pt,"Cicada, Rain","Cicada, Stream",Rain,Stream
+FS02_20230814_182100_3.pt,Cicada,"Cicada, Wind",,Wind
+FS02_20230817_074200_1.pt,"Bird, Cicada",Cicada,Bird,
+FS02_20230817_074200_10.pt,"Bird, Cicada",Cicada,Bird,
+FS02_20230817_074200_2.pt,"Bird, Cicada",Cicada,Bird,
+FS02_20230817_074200_3.pt,"Bird, Cicada",Cicada,Bird,
+FS02_20230817_074200_4.pt,"Bird, Cicada",Cicada,Bird,
+FS02_20230817_074200_5.pt,"Bird, Cicada",Cicada,Bird,
+FS02_20230817_074200_6.pt,"Bird, Cicada",Cicada,Bird,
+FS02_20230817_074200_7.pt,"Bird, Cicada",Cicada,Bird,
+FS02_20230817_074200_8.pt,"Bird, Cicada",Cicada,Bird,
+FS02_20230817_074200_9.pt,"Bird, Cicada",Cicada,Bird,
+FS02_20230827_043300_1.pt,"Frog, Insect",Insect,Frog,
+FS02_20230827_043300_10.pt,"Frog, Insect",Insect,Frog,
+FS02_20230827_043300_2.pt,"Frog, Insect",Insect,Frog,
+FS02_20230827_043300_3.pt,"Frog, Insect",Insect,Frog,
+FS02_20230827_043300_4.pt,"Frog, Insect",Insect,Frog,
+FS02_20230827_043300_5.pt,"Frog, Insect",Insect,Frog,
+FS02_20230827_043300_6.pt,"Frog, Insect",Insect,Frog,
+FS02_20230827_043300_7.pt,"Frog, Insect",Insect,Frog,
+FS02_20230827_043300_8.pt,"Frog, Insect",Insect,Frog,
+FS02_20230827_043300_9.pt,"Frog, Insect",Insect,Frog,
+FS02_20230829_030300_1.pt,"Insect, Owl",Insect,Owl,
+FS02_20230829_030300_10.pt,"Insect, Owl","Cicada, Insect",Owl,Cicada
+FS02_20230829_030300_2.pt,"Insect, Owl","Cicada, Insect",Owl,Cicada
+FS02_20230829_030300_3.pt,"Insect, Owl","Cicada, Insect",Owl,Cicada
+FS02_20230829_030300_4.pt,"Insect, Owl","Cicada, Insect",Owl,Cicada
+FS02_20230829_030300_5.pt,"Insect, Owl",Cicada,"Insect, Owl",Cicada
+FS02_20230829_030300_6.pt,"Insect, Owl","Cicada, Insect",Owl,Cicada
+FS02_20230829_030300_7.pt,"Insect, Owl",Cicada,"Insect, Owl",Cicada
+FS02_20230829_030300_8.pt,"Insect, Owl","Cicada, Insect",Owl,Cicada
+FS02_20230829_030300_9.pt,"Insect, Owl","Cicada, Insect",Owl,Cicada
+FS02_20230829_115700_1.pt,"Cicada, Wind",Wind,Cicada,
+FS02_20230829_115700_4.pt,"Cicada, Wind",Wind,Cicada,
+FS02_20230829_134800_10.pt,"Cicada, Wind",Wind,Cicada,
+FS02_20230829_134800_2.pt,"Cicada, Wind",Wind,Cicada,
+FS02_20230829_134800_5.pt,"Cicada, Wind",Cicada,Wind,
+FS02_20230829_134800_6.pt,"Cicada, Wind",Cicada,Wind,
+FS02_20230829_134800_7.pt,"Cicada, Wind",Cicada,Wind,
+FS02_20230829_134800_8.pt,"Cicada, Wind",Cicada,Wind,
+FS02_20230906_203600_1.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230906_203600_10.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230906_203600_2.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230906_203600_3.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230906_203600_4.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230906_203600_5.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230906_203600_6.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230906_203600_7.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230906_203600_8.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230906_203600_9.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230909_053000_1.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230909_053000_10.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230909_053000_2.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230909_053000_3.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230909_053000_4.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230909_053000_5.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230909_053000_6.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230909_053000_7.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230909_053000_8.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230909_053000_9.pt,Stream,"Cicada, Stream",,Cicada
+FS02_20230912_021200_1.pt,"Insect, Stream","Stream, Wind",Insect,Wind
+FS02_20230912_021200_10.pt,"Insect, Stream",Stream,Insect,
+FS02_20230912_021200_2.pt,"Insect, Stream",Stream,Insect,
+FS02_20230912_021200_3.pt,"Insect, Stream","Stream, Wind",Insect,Wind
+FS02_20230912_021200_4.pt,"Insect, Stream","Stream, Wind",Insect,Wind
+FS02_20230912_021200_5.pt,"Insect, Stream",Stream,Insect,
+FS02_20230912_021200_6.pt,"Insect, Stream","Stream, Wind",Insect,Wind
+FS02_20230912_021200_7.pt,"Insect, Stream","Stream, Wind",Insect,Wind
+FS02_20230912_021200_8.pt,"Insect, Stream","Stream, Wind",Insect,Wind
+FS02_20230912_021200_9.pt,"Insect, Stream","Stream, Wind",Insect,Wind
+FS02_20230917_113300_10.pt,Stream,Wind,Stream,Wind
+FS02_20230917_113300_4.pt,Stream,"Insect, Stream",,Insect
+FS02_20230917_113300_5.pt,Stream,"Stream, Wind",,Wind
+FS02_20230917_113300_8.pt,Stream,"Stream, Wind",,Wind
+FS02_20230917_113300_9.pt,Stream,"Cicada, Wind",Stream,"Cicada, Wind"
+FS02_20230919_080000_1.pt,"Aircraft, Cicada","Aircraft, Insect, Wind",Cicada,"Insect, Wind"
+FS02_20230919_080000_10.pt,"Aircraft, Cicada","Cicada, Insect, Wind",Aircraft,"Insect, Wind"
+FS02_20230919_080000_8.pt,"Aircraft, Cicada","Cicada, Wind",Aircraft,Wind
+FS02_20230919_080000_9.pt,"Aircraft, Cicada","Cicada, Wind",Aircraft,Wind
+FS02_20230919_170000_1.pt,"Cicada, Wind",Cicada,Wind,
+FS02_20230919_170000_10.pt,"Cicada, Wind",Cicada,Wind,
+FS02_20230919_170000_2.pt,"Cicada, Wind",Cicada,Wind,
+FS02_20230919_170000_3.pt,"Cicada, Wind",Cicada,Wind,
+FS02_20230919_170000_8.pt,"Cicada, Wind",Cicada,Wind,
+FS02_20230919_170000_9.pt,"Cicada, Wind",Cicada,Wind,
+FS02_20230923_201200_1.pt,"Insect, Mammal",Insect,Mammal,
+FS02_20230923_201200_10.pt,"Insect, Mammal",Insect,Mammal,
+FS02_20230923_201200_2.pt,"Insect, Mammal",Insect,Mammal,
+FS02_20230923_201200_3.pt,"Insect, Mammal",Insect,Mammal,
+FS02_20230923_201200_4.pt,"Insect, Mammal",Insect,Mammal,
+FS02_20230923_201200_5.pt,"Insect, Mammal",Insect,Mammal,
+FS02_20230923_201200_6.pt,"Insect, Mammal",Insect,Mammal,
+FS02_20230923_201200_7.pt,"Insect, Mammal",Insect,Mammal,
+FS02_20230923_201200_8.pt,"Insect, Mammal",Insect,Mammal,
+FS02_20230923_201200_9.pt,"Insect, Mammal",Insect,Mammal,
+FS02_20230924_215400_1.pt,"Insect, Owl, Wind",Insect,"Owl, Wind",
+FS02_20230924_215400_10.pt,"Insect, Owl, Wind",Insect,"Owl, Wind",
+FS02_20230924_215400_2.pt,"Insect, Owl, Wind",Insect,"Owl, Wind",
+FS02_20230924_215400_3.pt,"Insect, Owl, Wind",Insect,"Owl, Wind",
+FS02_20230924_215400_4.pt,"Insect, Owl, Wind",Insect,"Owl, Wind",
+FS02_20230924_215400_5.pt,"Insect, Owl, Wind",Insect,"Owl, Wind",
+FS02_20230924_215400_6.pt,"Insect, Owl, Wind",Insect,"Owl, Wind",
+FS02_20230924_215400_7.pt,"Insect, Owl, Wind",Insect,"Owl, Wind",
+FS02_20230924_215400_8.pt,"Insect, Owl, Wind",Insect,"Owl, Wind",
+FS02_20230924_215400_9.pt,"Insect, Owl, Wind",Insect,"Owl, Wind",
+FS02_20230926_134200_1.pt,Wind,"Rain, Wind",,Rain
+FS02_20230926_134200_9.pt,Wind,"Insect, Wind",,Insect
+FS02_20231011_055400_1.pt,"Bird, Rain, Stream","Rain, Stream",Bird,
+FS02_20231011_055400_10.pt,"Bird, Rain, Stream",Rain,"Bird, Stream",
+FS02_20231011_055400_2.pt,"Bird, Rain, Stream","Rain, Stream",Bird,
+FS02_20231011_055400_3.pt,"Bird, Rain, Stream","Rain, Stream",Bird,
+FS02_20231011_055400_4.pt,"Bird, Rain, Stream","Rain, Stream",Bird,
+FS02_20231011_055400_5.pt,"Bird, Rain, Stream",Rain,"Bird, Stream",
+FS02_20231011_055400_6.pt,"Bird, Rain, Stream","Rain, Stream",Bird,
+FS02_20231011_055400_7.pt,"Bird, Rain, Stream",Rain,"Bird, Stream",
+FS02_20231011_055400_8.pt,"Bird, Rain, Stream",Rain,"Bird, Stream",
+FS02_20231011_055400_9.pt,"Bird, Rain, Stream",Rain,"Bird, Stream",
+FS02_20231027_082700_1.pt,"Aircraft, Rain, Wind","Aircraft, Rain",Wind,
+FS02_20231027_082700_2.pt,"Aircraft, Rain, Wind","Aircraft, Rain",Wind,
+FS02_20231027_082700_3.pt,"Aircraft, Rain, Wind","Aircraft, Rain",Wind,
+FS02_20231027_082700_4.pt,"Aircraft, Rain, Wind",Aircraft,"Rain, Wind",
+FS02_20231027_082700_5.pt,"Aircraft, Rain, Wind",Aircraft,"Rain, Wind",
+FS02_20231027_082700_6.pt,"Aircraft, Rain, Wind","Aircraft, Rain",Wind,
+FS02_20231027_082700_7.pt,"Aircraft, Rain, Wind",Aircraft,"Rain, Wind",
+FS02_20231027_082700_8.pt,"Aircraft, Rain, Wind","Aircraft, Rain",Wind,
+FS02_20231027_082700_9.pt,"Aircraft, Rain, Wind","Aircraft, Rain",Wind,
+FS02_20231108_233000_1.pt,"Insect, Wind",Insect,Wind,
+FS02_20231108_233000_10.pt,"Insect, Wind",Insect,Wind,
+FS02_20231108_233000_2.pt,"Insect, Wind",Insect,Wind,
+FS02_20231108_233000_3.pt,"Insect, Wind",Insect,Wind,
+FS02_20231108_233000_4.pt,"Insect, Wind",Insect,Wind,
+FS02_20231108_233000_5.pt,"Insect, Wind",Insect,Wind,
+FS02_20231108_233000_6.pt,"Insect, Wind",Insect,Wind,
+FS02_20231108_233000_7.pt,"Insect, Wind",Insect,Wind,
+FS02_20231108_233000_8.pt,"Insect, Wind",Insect,Wind,
+FS02_20231108_233000_9.pt,"Insect, Wind",Insect,Wind,
+FS02_20231121_140000_1.pt,"Aircraft, Insect, Wind","Aircraft, Wind",Insect,
+FS02_20231121_140000_10.pt,"Aircraft, Insect, Wind","Aircraft, Wind",Insect,
+FS02_20231121_140000_2.pt,"Aircraft, Insect, Wind","Aircraft, Wind",Insect,
+FS02_20231121_140000_3.pt,"Aircraft, Insect, Wind","Aircraft, Wind",Insect,
+FS02_20231121_140000_4.pt,"Aircraft, Insect, Wind","Aircraft, Wind",Insect,
+FS02_20231121_140000_5.pt,"Aircraft, Insect, Wind",Aircraft,"Insect, Wind",
+FS02_20231121_140000_8.pt,"Aircraft, Insect, Wind","Aircraft, Wind",Insect,
+FS02_20231121_140000_9.pt,"Aircraft, Insect, Wind",Wind,"Aircraft, Insect",
+FS02_20231121_220000_4.pt,"Insect, Wind","Bird, Mammal, Wind",Insect,"Bird, Mammal"
+FS02_20231121_220000_5.pt,"Insect, Wind","Insect, Mammal, Wind",,Mammal
+FS02_20231121_220000_7.pt,"Insect, Wind","Aircraft, Insect, Wind",,Aircraft
+FS02_20231121_220000_9.pt,"Insect, Wind","Insect, Mammal, Wind",,Mammal
+FS02_20231122_041500_1.pt,"Frog, Insect, Wind","Insect, Wind",Frog,
+FS02_20231122_041500_10.pt,"Frog, Insect, Wind","Frog, Wind",Insect,
+FS02_20231122_041500_2.pt,"Frog, Insect, Wind","Frog, Wind",Insect,
+FS02_20231122_041500_3.pt,"Frog, Insect, Wind","Frog, Wind",Insect,
+FS02_20231122_041500_4.pt,"Frog, Insect, Wind","Frog, Wind",Insect,
+FS02_20231122_041500_5.pt,"Frog, Insect, Wind","Frog, Wind",Insect,
+FS02_20231122_041500_8.pt,"Frog, Insect, Wind","Frog, Wind",Insect,
+FS02_20231122_041500_9.pt,"Frog, Insect, Wind","Frog, Wind",Insect,
+FS02_20231210_230600_1.pt,"Insect, Wind","Insect, Stream, Wind",,Stream
+FS02_20231210_230600_2.pt,"Insect, Wind","Insect, Stream, Wind",,Stream
+FS02_20231210_230600_3.pt,"Insect, Wind","Insect, Stream, Wind",,Stream
+FS02_20231210_230600_7.pt,"Insect, Wind","Insect, Stream, Wind",,Stream
+FS02_20231211_154200_1.pt,Insect,"Insect, Wind",,Wind
+FS02_20231211_154200_10.pt,Insect,"Insect, Wind",,Wind
+FS02_20231211_154200_2.pt,Insect,"Insect, Wind",,Wind
+FS02_20231211_154200_3.pt,Insect,"Insect, Wind",,Wind
+FS02_20231211_154200_4.pt,Insect,"Insect, Wind",,Wind
+FS02_20231211_154200_5.pt,Insect,"Insect, Wind",,Wind
+FS02_20231211_154200_6.pt,Insect,"Insect, Wind",,Wind
+FS02_20231211_154200_7.pt,Insect,"Insect, Wind",,Wind
+FS02_20231211_154200_8.pt,Insect,Wind,Insect,Wind
+FS02_20231211_154200_9.pt,Insect,"Insect, Wind",,Wind
+FS02_20231230_090000_1.pt,"Bird, Rain",Rain,Bird,
+FS02_20231230_090000_10.pt,"Bird, Rain",Rain,Bird,
+FS02_20231230_090000_2.pt,"Bird, Rain",Rain,Bird,
+FS02_20231230_090000_3.pt,"Bird, Rain",Rain,Bird,
+FS02_20231230_090000_4.pt,"Bird, Rain","Rain, Wind",Bird,Wind
+FS02_20231230_090000_5.pt,"Bird, Rain",Rain,Bird,
+FS02_20231230_090000_6.pt,"Bird, Rain","Rain, Wind",Bird,Wind
+FS02_20231230_090000_7.pt,"Bird, Rain","Rain, Wind",Bird,Wind
+FS02_20231230_090000_9.pt,"Bird, Rain",Rain,Bird,
+FS02_20231230_190000_1.pt,"Frog, Speech, Wind","Frog, Insect, Wind",Speech,Insect
+FS02_20231230_190000_10.pt,"Frog, Speech, Wind",Aircraft,"Frog, Speech, Wind",Aircraft
+FS02_20231230_190000_2.pt,"Frog, Speech, Wind","Frog, Wind",Speech,
+FS02_20231230_190000_3.pt,"Frog, Speech, Wind","Frog, Wind",Speech,
+FS02_20231230_190000_4.pt,"Frog, Speech, Wind","Insect, Wind","Frog, Speech",Insect
+FS02_20231230_190000_5.pt,"Frog, Speech, Wind",Aircraft,"Frog, Speech, Wind",Aircraft
+FS02_20231230_190000_6.pt,"Frog, Speech, Wind","Aircraft, Frog","Speech, Wind",Aircraft
+FS02_20231230_190000_7.pt,"Frog, Speech, Wind",Aircraft,"Frog, Speech, Wind",Aircraft
+FS02_20231230_190000_8.pt,"Frog, Speech, Wind","Aircraft, Speech","Frog, Wind",Aircraft
+FS02_20231230_190000_9.pt,"Frog, Speech, Wind",Aircraft,"Frog, Speech, Wind",Aircraft
+GW01_20241116_053000_1.pt,Rain,"Aircraft, Rain",,Aircraft
+GW01_20241116_053000_8.pt,Rain,"Rain, Wind",,Wind
+GW01_20250409_023000_1.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+GW01_20250409_023000_10.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+GW01_20250409_023000_2.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+GW01_20250409_023000_3.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+GW01_20250409_023000_4.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+GW01_20250409_023000_5.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+GW01_20250409_023000_6.pt,"Frog, Owl, Rain, Wind","Frog, Owl, Rain",Wind,
+GW01_20250409_023000_7.pt,"Frog, Owl, Rain, Wind","Frog, Owl, Rain",Wind,
+GW01_20250409_023000_8.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+GW01_20250409_023000_9.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+GW01_20250415_214500_2.pt,"Owl, Wind",Wind,Owl,
+GW01_20250415_214500_3.pt,"Owl, Wind",Wind,Owl,
+GW01_20250415_214500_4.pt,"Owl, Wind",Wind,Owl,
+GW01_20250415_214500_6.pt,"Owl, Wind",Wind,Owl,
+GW01_20250415_214500_7.pt,"Owl, Wind",Wind,Owl,
+GW01_20250415_214500_8.pt,"Owl, Wind",Wind,Owl,
+GW01_20250516_053000_1.pt,"Bird, Wind",Bird,Wind,
+GW01_20250516_053000_10.pt,"Aircraft, Bird",Bird,Aircraft,
+GW01_20250516_053000_2.pt,"Bird, Wind",Bird,Wind,
+GW01_20250516_053000_3.pt,"Bird, Wind","Bird, Owl",Wind,Owl
+GW01_20250516_053000_5.pt,"Aircraft, Bird","Aircraft, Bird, Owl",,Owl
+GW01_20250516_053000_8.pt,"Aircraft, Bird","Aircraft, Bird, Owl",,Owl
+GW01_20250626_173000_2.pt,Rain,"Rain, Wind",,Wind
+GW01_20250626_173000_3.pt,"Aircraft, Rain","Rain, Wind",Aircraft,Wind
+GW01_20250626_173000_4.pt,"Aircraft, Rain",Rain,Aircraft,
+GW01_20250626_173000_6.pt,"Aircraft, Rain",Rain,Aircraft,
+GW01_20250704_134500_1.pt,"Bird, Cicada",Cicada,Bird,
+GW01_20250704_134500_10.pt,"Bird, Cicada",Cicada,Bird,
+GW01_20250704_134500_2.pt,"Bird, Cicada",Cicada,Bird,
+GW01_20250704_134500_3.pt,"Bird, Cicada",Cicada,Bird,
+GW01_20250704_134500_5.pt,"Bird, Cicada",Cicada,Bird,
+GW01_20250706_020000_10.pt,"Insect, Rain",Insect,Rain,
+GW01_20250706_020000_3.pt,"Insect, Rain",Insect,Rain,
+GW01_20250706_020000_5.pt,"Insect, Rain",Insect,Rain,
+GW01_20250706_020000_6.pt,"Insect, Rain",Insect,Rain,
+GW01_20250706_020000_7.pt,"Insect, Rain",Insect,Rain,
+GW01_20250706_020000_8.pt,"Frog, Insect, Rain",Insect,"Frog, Rain",
+GW01_20250706_020000_9.pt,"Frog, Insect, Rain",Insect,"Frog, Rain",
+GW01_20250709_233000_10.pt,"Rain, Wind",Rain,Wind,
+GW03_20241124_151500_1.pt,"Aircraft, Bird, Mammal","Aircraft, Bird",Mammal,
+GW03_20241124_151500_10.pt,"Aircraft, Mammal","Aircraft, Bird",Mammal,Bird
+GW03_20241124_151500_2.pt,"Aircraft, Bird, Mammal",Aircraft,"Bird, Mammal",
+GW03_20241124_151500_3.pt,"Aircraft, Bird, Mammal","Aircraft, Bird",Mammal,
+GW03_20241124_151500_4.pt,"Aircraft, Bird, Mammal","Aircraft, Bird, Machine",Mammal,Machine
+GW03_20241124_151500_5.pt,"Aircraft, Mammal","Aircraft, Bird",Mammal,Bird
+GW03_20241124_151500_6.pt,"Aircraft, Mammal","Aircraft, Bird",Mammal,Bird
+GW03_20241124_151500_7.pt,"Aircraft, Mammal","Aircraft, Bird",Mammal,Bird
+GW03_20241124_151500_8.pt,"Aircraft, Mammal","Aircraft, Bird",Mammal,Bird
+GW03_20241124_151500_9.pt,"Aircraft, Mammal","Aircraft, Bird",Mammal,Bird
+GW03_20241204_020000_1.pt,,Wind,,Wind
+GW03_20241204_020000_2.pt,,Wind,,Wind
+GW03_20241204_020000_3.pt,,Wind,,Wind
+GW03_20241204_020000_4.pt,Aircraft,Wind,Aircraft,Wind
+GW03_20241221_223000_3.pt,,Wind,,Wind
+GW03_20241221_223000_9.pt,,Wind,,Wind
+GW03_20250127_001500_1.pt,"Rain, Wind","Aircraft, Rain",Wind,Aircraft
+GW03_20250127_001500_10.pt,"Rain, Wind",Rain,Wind,
+GW03_20250127_001500_2.pt,"Rain, Wind","Aircraft, Rain",Wind,Aircraft
+GW03_20250127_001500_3.pt,"Rain, Wind","Aircraft, Rain",Wind,Aircraft
+GW03_20250127_001500_4.pt,"Rain, Wind","Aircraft, Rain",Wind,Aircraft
+GW03_20250127_001500_5.pt,"Rain, Wind","Aircraft, Rain",Wind,Aircraft
+GW03_20250127_001500_6.pt,"Rain, Wind",Rain,Wind,
+GW03_20250127_001500_7.pt,"Rain, Wind",Rain,Wind,
+GW03_20250127_001500_8.pt,"Rain, Wind","Aircraft, Rain",Wind,Aircraft
+GW03_20250127_001500_9.pt,"Rain, Wind",Rain,Wind,
+GW03_20250227_191500_10.pt,"Aircraft, Owl",Aircraft,Owl,
+GW03_20250227_191500_6.pt,Aircraft,"Aircraft, Owl",,Owl
+GW03_20250227_191500_7.pt,"Aircraft, Owl",Aircraft,Owl,
+GW03_20250227_191500_8.pt,"Aircraft, Owl",Aircraft,Owl,
+GW03_20250303_134500_1.pt,"Aircraft, Machine",Machine,Aircraft,
+GW03_20250303_134500_10.pt,"Aircraft, Machine","Speech, Wind","Aircraft, Machine","Speech, Wind"
+GW03_20250303_134500_2.pt,"Aircraft, Machine",Machine,Aircraft,
+GW03_20250303_134500_3.pt,"Aircraft, Machine",Machine,Aircraft,
+GW03_20250303_134500_6.pt,"Aircraft, Machine",Aircraft,Machine,
+GW03_20250303_134500_7.pt,"Aircraft, Machine",Aircraft,Machine,
+GW03_20250303_134500_8.pt,"Aircraft, Machine",Aircraft,Machine,
+GW03_20250303_134500_9.pt,"Aircraft, Machine","Aircraft, Owl",Machine,Owl
+GW03_20250315_024500_1.pt,Wind,"Aircraft, Frog, Wind",,"Aircraft, Frog"
+GW03_20250315_024500_2.pt,"Bat, Wind","Bat, Frog, Wind",,Frog
+GW03_20250315_024500_3.pt,"Bat, Rain, Wind","Frog, Wind","Bat, Rain",Frog
+GW03_20250315_024500_5.pt,"Rain, Wind","Frog, Rain, Wind",,Frog
+GW03_20250315_024500_6.pt,"Rain, Wind","Frog, Rain",Wind,Frog
+GW03_20250315_024500_7.pt,"Rain, Wind",Frog,"Rain, Wind",Frog
+GW03_20250315_024500_8.pt,"Rain, Wind",Frog,"Rain, Wind",Frog
+GW03_20250315_024500_9.pt,Wind,Frog,Wind,Frog
+GW03_20250724_213000_1.pt,"Bat, Wind",,"Bat, Wind",
+GW03_20250724_213000_2.pt,"Bat, Wind",Bat,Wind,
+GW03_20250724_213000_4.pt,"Bat, Wind",Wind,Bat,
+GW03_20250724_213000_5.pt,"Bat, Wind","Aircraft, Rain, Wind",Bat,"Aircraft, Rain"
+GW03_20250724_213000_6.pt,"Bat, Machine, Wind",Aircraft,"Bat, Machine, Wind",Aircraft
+GW03_20250724_213000_7.pt,"Bat, Machine, Wind","Aircraft, Bat","Machine, Wind",Aircraft
+GW03_20250724_213000_8.pt,"Bat, Wind","Aircraft, Bat, Wind",,Aircraft
+GW03_20250724_213000_9.pt,"Bat, Wind",Wind,Bat,
+GWB01_20241125_183000_10.pt,"Rain, Wind",Rain,Wind,
+GWB01_20241125_183000_5.pt,"Rain, Wind",Rain,Wind,
+GWB01_20241125_183000_7.pt,"Rain, Wind",Wind,Rain,
+GWB01_20241125_183000_9.pt,"Rain, Wind",Rain,Wind,
+GWB01_20250125_120000_1.pt,Aircraft,"Rain, Wind",Aircraft,"Rain, Wind"
+GWB01_20250125_120000_10.pt,Aircraft,"Rain, Wind",Aircraft,"Rain, Wind"
+GWB01_20250125_120000_2.pt,Aircraft,Wind,Aircraft,Wind
+GWB01_20250125_120000_3.pt,Aircraft,"Rain, Wind",Aircraft,"Rain, Wind"
+GWB01_20250125_120000_4.pt,Aircraft,Wind,Aircraft,Wind
+GWB01_20250125_120000_5.pt,Aircraft,Wind,Aircraft,Wind
+GWB01_20250125_120000_6.pt,Aircraft,Wind,Aircraft,Wind
+GWB01_20250125_120000_7.pt,Aircraft,,Aircraft,
+GWB01_20250125_120000_8.pt,Aircraft,,Aircraft,
+GWB01_20250125_120000_9.pt,Aircraft,Wind,Aircraft,Wind
+GWB01_20250128_171500_3.pt,"Mammal, Wind",Wind,Mammal,
+GWB01_20250128_171500_4.pt,"Bird, Mammal, Wind","Bird, Wind",Mammal,
+GWB01_20250128_171500_5.pt,"Mammal, Wind",Wind,Mammal,
+GWB01_20250128_171500_6.pt,"Aircraft, Mammal",Aircraft,Mammal,
+GWB01_20250128_171500_7.pt,"Aircraft, Mammal",Aircraft,Mammal,
+GWB01_20250224_220000_10.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250322_031500_10.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250322_031500_2.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250322_031500_4.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250322_031500_5.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250322_031500_6.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250322_031500_7.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250322_031500_8.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250322_031500_9.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250325_073000_1.pt,Machine,"Bird, Wind",Machine,"Bird, Wind"
+GWB01_20250325_073000_10.pt,"Bird, Machine, Wind","Machine, Wind",Bird,
+GWB01_20250325_073000_2.pt,Wind,"Bird, Wind",,Bird
+GWB01_20250325_073000_6.pt,"Machine, Wind",Wind,Machine,
+GWB01_20250325_073000_8.pt,Wind,"Machine, Wind",,Machine
+GWB01_20250328_000000_1.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250328_000000_2.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250328_000000_3.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250328_000000_4.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250328_000000_5.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250328_000000_6.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250328_000000_7.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250328_000000_8.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250330_170000_1.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250330_170000_10.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250330_170000_2.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250330_170000_5.pt,"Bird, Rain, Wind","Rain, Wind",Bird,
+GWB01_20250330_170000_6.pt,"Bird, Rain, Wind","Rain, Wind",Bird,
+GWB01_20250422_034500_2.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250422_034500_5.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250422_034500_7.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250518_154500_1.pt,"Bird, Wind",Bird,Wind,
+GWB01_20250518_154500_2.pt,"Bird, Wind",Bird,Wind,
+GWB01_20250518_154500_3.pt,"Bird, Wind",Bird,Wind,
+GWB01_20250518_154500_5.pt,"Bird, Wind",Bird,Wind,
+GWB01_20250518_154500_6.pt,"Bird, Wind",Bird,Wind,
+GWB01_20250518_154500_7.pt,"Bird, Wind",Bird,Wind,
+GWB01_20250518_154500_8.pt,"Bird, Wind",Bird,Wind,
+GWB01_20250518_154500_9.pt,"Bird, Wind",Bird,Wind,
+GWB01_20250523_024500_1.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250523_024500_10.pt,"Frog, Rain, Wind",Wind,"Frog, Rain",
+GWB01_20250523_024500_2.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250523_024500_3.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250523_024500_4.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250523_024500_5.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250523_024500_6.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250523_024500_7.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250523_024500_8.pt,Rain,Wind,Rain,Wind
+GWB01_20250523_024500_9.pt,"Rain, Wind",Wind,Rain,
+GWB01_20250528_110000_1.pt,Bird,"Aircraft, Bird",,Aircraft
+GWB01_20250610_080000_5.pt,"Bird, Machine",Machine,Bird,
+GWB01_20250610_080000_6.pt,"Bird, Machine",Machine,Bird,
+GWB01_20250610_080000_7.pt,"Bird, Machine",Machine,Bird,
+GWB01_20250610_080000_9.pt,"Bird, Machine",Machine,Bird,
+GWB01_20250616_101500_1.pt,"Bird, Cicada, Wind",Bird,"Cicada, Wind",
+GWB01_20250616_101500_10.pt,"Bird, Cicada, Wind","Bird, Wind",Cicada,
+GWB01_20250616_101500_2.pt,"Bird, Wind",Bird,Wind,
+GWB01_20250616_101500_3.pt,"Bird, Cicada, Wind","Bird, Wind",Cicada,
+GWB01_20250616_101500_4.pt,"Bird, Cicada, Wind","Bird, Cicada",Wind,
+GWB01_20250616_101500_5.pt,"Bird, Cicada, Wind","Bird, Wind",Cicada,
+GWB01_20250616_101500_6.pt,"Bird, Cicada","Bird, Wind",Cicada,Wind
+GWB01_20250616_101500_7.pt,"Bird, Cicada","Bird, Cicada, Wind",,Wind
+GWB01_20250616_101500_8.pt,"Bird, Cicada, Wind","Bird, Wind",Cicada,
+GWB01_20250616_101500_9.pt,"Bird, Cicada, Wind","Bird, Wind",Cicada,
+GWB01_20250720_050000_1.pt,"Bird, Frog, Rain","Bird, Rain",Frog,
+GWB01_20250720_050000_10.pt,"Bird, Frog, Rain","Bird, Rain",Frog,
+GWB01_20250720_050000_5.pt,"Bird, Frog, Rain","Bird, Rain",Frog,
+GWB01_20250720_050000_6.pt,"Bird, Frog, Rain","Bird, Rain",Frog,
+GWB01_20250720_050000_9.pt,"Bird, Frog, Rain","Bird, Rain",Frog,
+GWB01_20250720_150000_1.pt,"Bird, Frog",Bird,Frog,
+GWB01_20250720_150000_2.pt,"Bird, Frog",Bird,Frog,
+GWB01_20250720_150000_3.pt,"Bird, Frog",Bird,Frog,
+GWB01_20250720_150000_4.pt,"Bird, Frog",Bird,Frog,
+GWB01_20250720_150000_5.pt,"Bird, Frog",Bird,Frog,
+GWB01_20250720_150000_6.pt,"Bird, Frog",Bird,Frog,
+GWB01_20250720_150000_7.pt,"Bird, Frog",Bird,Frog,
+GWB01_20250720_150000_9.pt,"Bird, Frog",Bird,Frog,
+GWB01_20250727_063000_10.pt,Wind,"Bird, Wind",,Bird
+GWB01_20250727_063000_2.pt,"Bird, Wind",Wind,Bird,
+GWB01_20250727_063000_8.pt,Wind,"Frog, Wind",,Frog
+GWB01_20250727_063000_9.pt,"Bird, Wind",Wind,Bird,
+GWB01_20250803_173000_3.pt,"Bird, Rain, Wind",Wind,"Bird, Rain",
+GWB01_20250803_173000_4.pt,"Bird, Rain, Wind","Bird, Wind",Rain,
+GWB01_20250803_173000_5.pt,Wind,"Bird, Wind",,Bird
+GWB01_20250803_173000_6.pt,"Rain, Wind","Bird, Rain, Wind",,Bird
+GWB01_20250804_000000_10.pt,"Frog, Wind",Wind,Frog,
+GWB01_20250804_000000_2.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250804_000000_3.pt,Wind,"Rain, Wind",,Rain
+GWB01_20250804_000000_5.pt,"Frog, Wind",Wind,Frog,
+GWB01_20250804_000000_7.pt,"Frog, Wind",Wind,Frog,
+GWB01_20250804_000000_8.pt,"Rain, Wind",Wind,Rain,
+GWB02_20250630_190000_4.pt,Cicada,"Cicada, Insect",,Insect
+GWB03_20250619_073000_10.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB03_20250619_073000_11.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB03_20250619_073000_12.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB03_20250619_073000_17.pt,Bird,"Bird, Frog",,Frog
+GWB03_20250619_073000_4.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB03_20250619_073000_5.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB03_20250619_073000_6.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB03_20250619_073000_7.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB03_20250619_073000_8.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB03_20250619_073000_9.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB04_20250310_170000_1.pt,"Machine, Mammal, Wind",Machine,"Mammal, Wind",
+GWB04_20250310_170000_10.pt,"Machine, Wind",,"Machine, Wind",
+GWB04_20250310_170000_2.pt,"Machine, Mammal, Wind",Machine,"Mammal, Wind",
+GWB04_20250310_170000_3.pt,"Machine, Wind",,"Machine, Wind",
+GWB04_20250310_170000_4.pt,"Machine, Wind",Machine,Wind,
+GWB04_20250310_170000_7.pt,"Machine, Speech, Wind",Machine,"Speech, Wind",
+GWB04_20250310_170000_9.pt,"Machine, Speech, Wind",,"Machine, Speech, Wind",
+GWB04_20250326_100000_1.pt,"Machine, Mammal, Wind",Machine,"Mammal, Wind",
+GWB04_20250326_100000_10.pt,"Aircraft, Machine",Machine,Aircraft,
+GWB05_20250107_111500_10.pt,Machine,,Machine,
+GWB05_20250107_111500_4.pt,Machine,,Machine,
+GWB05_20250107_111500_5.pt,Machine,Bird,Machine,Bird
+GWB05_20250107_111500_6.pt,Machine,,Machine,
+GWB05_20250107_111500_7.pt,Machine,,Machine,
+GWB05_20250107_111500_8.pt,Machine,,Machine,
+GWB05_20250107_111500_9.pt,Machine,,Machine,
+GWB05_20250110_000000_1.pt,Mammal,,Mammal,
+GWB05_20250110_000000_10.pt,Mammal,,Mammal,
+GWB05_20250110_000000_2.pt,Mammal,,Mammal,
+GWB05_20250110_000000_4.pt,Mammal,,Mammal,
+GWB05_20250110_000000_5.pt,,Mammal,,Mammal
+GWB05_20250503_050000_3.pt,"Bird, Wind",Bird,Wind,
+GWB05_20250503_050000_5.pt,"Bird, Wind",Bird,Wind,
+GWB05_20250511_174500_3.pt,Rain,"Bird, Rain",,Bird
+GWB05_20250708_190000_1.pt,"Cicada, Machine, Wind",Cicada,"Machine, Wind",
+GWB05_20250708_190000_10.pt,"Cicada, Machine, Wind",Cicada,"Machine, Wind",
+GWB05_20250708_190000_2.pt,"Cicada, Machine, Wind","Cicada, Wind",Machine,
+GWB05_20250708_190000_3.pt,"Cicada, Machine, Wind","Cicada, Insect, Wind",Machine,Insect
+GWB05_20250708_190000_4.pt,"Cicada, Machine, Wind","Cicada, Wind",Machine,
+GWB05_20250708_190000_5.pt,"Cicada, Machine, Wind",Cicada,"Machine, Wind",
+GWB05_20250708_190000_6.pt,"Cicada, Machine, Wind","Cicada, Wind",Machine,
+GWB05_20250708_190000_7.pt,"Cicada, Machine, Wind","Cicada, Wind",Machine,
+GWB05_20250708_190000_8.pt,"Cicada, Machine, Wind","Cicada, Wind",Machine,
+GWB05_20250708_190000_9.pt,"Cicada, Machine, Wind",Cicada,"Machine, Wind",
+GWB05_20250717_051500_1.pt,"Bird, Wind",Bird,Wind,
+GWB05_20250717_051500_10.pt,"Bird, Wind","Bird, Insect",Wind,Insect
+GWB05_20250717_051500_2.pt,"Bird, Wind",Frog,"Bird, Wind",Frog
+GWB05_20250717_051500_3.pt,"Bird, Wind",Frog,"Bird, Wind",Frog
+GWB05_20250717_051500_4.pt,"Bird, Wind","Bird, Frog",Wind,Frog
+GWB05_20250717_051500_5.pt,"Bird, Wind","Bird, Frog",Wind,Frog
+GWB05_20250717_051500_6.pt,"Bird, Wind",Bird,Wind,
+GWB05_20250717_051500_7.pt,"Bird, Wind",Bird,Wind,
+GWB05_20250717_051500_8.pt,"Bird, Wind",Bird,Wind,
+GWB05_20250717_051500_9.pt,"Bird, Wind",Bird,Wind,
+GWB05_20250725_154500_1.pt,"Aircraft, Rain",Rain,Aircraft,
+GWB05_20250725_154500_2.pt,"Aircraft, Rain","Rain, Wind",Aircraft,Wind
+GWB05_20250725_154500_3.pt,"Aircraft, Rain","Rain, Wind",Aircraft,Wind
+GWB05_20250725_154500_4.pt,"Aircraft, Rain","Rain, Wind",Aircraft,Wind
+GWB05_20250725_154500_5.pt,"Aircraft, Rain","Rain, Wind",Aircraft,Wind
+GWB05_20250725_154500_6.pt,"Aircraft, Rain","Rain, Wind",Aircraft,Wind
+GWB05_20250725_154500_7.pt,"Aircraft, Rain",Rain,Aircraft,
+GWB05_20250725_154500_8.pt,"Aircraft, Rain","Rain, Wind",Aircraft,Wind
+GWB07_20250508_073000_1.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB07_20250508_073000_14.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB07_20250508_073000_15.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB07_20250508_073000_16.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB07_20250508_073000_17.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB07_20250508_073000_18.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB07_20250508_073000_19.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB07_20250508_073000_2.pt,"Aircraft, Bird","Bird, Wind",Aircraft,Wind
+GWB07_20250508_073000_20.pt,"Aircraft, Bird",Bird,Aircraft,
+GWB07_20250508_073000_8.pt,"Aircraft, Bird","Aircraft, Bird, Owl",,Owl
+GWB07_20250508_073000_9.pt,"Aircraft, Bird",Bird,Aircraft,
+GWU02_20250418_100000_1.pt,Machine,,Machine,
+GWU02_20250418_100000_5.pt,"Machine, Wind",Machine,Wind,
+GWU02_20250418_100000_6.pt,"Machine, Wind",Wind,Machine,
+GWU02_20250418_100000_9.pt,"Machine, Wind",Machine,Wind,
+GWU02_20250627_084500_1.pt,"Cicada, Machine",Cicada,Machine,
+GWU02_20250627_084500_10.pt,"Cicada, Machine",Cicada,Machine,
+GWU02_20250627_084500_2.pt,"Cicada, Machine",Cicada,Machine,
+GWU02_20250627_084500_3.pt,"Cicada, Machine",Cicada,Machine,
+GWU02_20250627_084500_4.pt,"Bird, Cicada, Machine","Bird, Cicada",Machine,
+GWU02_20250627_084500_5.pt,"Cicada, Machine",Cicada,Machine,
+GWU02_20250627_084500_6.pt,"Cicada, Machine","Bird, Cicada",Machine,Bird
+GWU02_20250627_084500_7.pt,"Bird, Cicada, Machine","Bird, Cicada",Machine,
+GWU02_20250627_084500_8.pt,"Cicada, Machine",Cicada,Machine,
+GWU02_20250627_084500_9.pt,"Bird, Cicada, Machine","Bird, Cicada",Machine,
+GWU02_20250704_065900_15.pt,Cicada,"Bird, Cicada",,Bird
+GWU04_20250713_064500_4.pt,Bird,"Bird, Wind",,Wind
+GWU04_20250713_064500_5.pt,Bird,"Bird, Wind",,Wind
+GWU04_20250713_064500_6.pt,Bird,"Bird, Wind",,Wind
+GWU04_20250713_064500_7.pt,Bird,"Bird, Wind",,Wind
+GWU04_20250713_064500_8.pt,Bird,"Bird, Wind",,Wind
+GWU04_20250713_064500_9.pt,Bird,"Bird, Wind",,Wind
+GWU04_20250728_111500_1.pt,"Bird, Machine","Bird, Wind",Machine,Wind
+GWU04_20250728_111500_6.pt,"Bird, Machine","Bird, Wind",Machine,Wind
+GWU04_20250728_111500_7.pt,"Bird, Machine",Bird,Machine,
+GWU05_20250708_184500_1.pt,"Cicada, Wind","Bird, Cicada",Wind,Bird
+GWU05_20250708_184500_10.pt,"Cicada, Wind",Cicada,Wind,
+GWU05_20250708_184500_2.pt,"Cicada, Wind","Bird, Cicada",Wind,Bird
+GWU05_20250708_184500_3.pt,"Cicada, Wind",Cicada,Wind,
+GWU05_20250708_184500_4.pt,"Cicada, Wind",Cicada,Wind,
+GWU05_20250708_184500_5.pt,"Cicada, Wind",Cicada,Wind,
+GWU05_20250708_184500_6.pt,"Cicada, Wind",Cicada,Wind,
+GWU05_20250708_184500_7.pt,"Cicada, Wind",Cicada,Wind,
+GWU05_20250708_184500_8.pt,"Cicada, Wind",Cicada,Wind,
+GWU05_20250708_184500_9.pt,"Cicada, Wind",Cicada,Wind,
+TML01_20240117_184800_2.pt,Rain,"Rain, Wind",,Wind
+TML01_20240203_112100_1.pt,"Bird, Cicada",Cicada,Bird,
+TML01_20240203_112100_10.pt,"Bird, Cicada",Cicada,Bird,
+TML01_20240203_112100_2.pt,"Bird, Cicada",Cicada,Bird,
+TML01_20240203_112100_3.pt,"Bird, Cicada",Cicada,Bird,
+TML01_20240203_112100_4.pt,"Bird, Cicada",Cicada,Bird,
+TML01_20240203_112100_5.pt,"Bird, Cicada",Cicada,Bird,
+TML01_20240203_112100_6.pt,"Bird, Cicada",Cicada,Bird,
+TML01_20240203_112100_7.pt,"Bird, Cicada",Cicada,Bird,
+TML01_20240203_112100_8.pt,"Bird, Cicada",Cicada,Bird,
+TML01_20240203_112100_9.pt,"Bird, Cicada",Cicada,Bird,
+TML01_20240216_223000_1.pt,"Frog, Owl, Rain","Insect, Rain","Frog, Owl",Insect
+TML01_20240216_223000_10.pt,"Frog, Owl, Rain","Frog, Insect, Owl, Rain",,Insect
+TML01_20240216_223000_2.pt,"Frog, Owl, Rain","Frog, Insect, Owl, Rain",,Insect
+TML01_20240216_223000_3.pt,"Frog, Owl, Rain","Insect, Owl, Rain",Frog,Insect
+TML01_20240216_223000_6.pt,"Frog, Owl, Rain","Owl, Rain",Frog,
+TML01_20240216_223000_7.pt,"Frog, Owl, Rain","Owl, Rain",Frog,
+TML01_20240216_223000_8.pt,"Frog, Owl, Rain","Owl, Rain",Frog,
+TML01_20240216_223000_9.pt,"Frog, Owl, Rain","Owl, Rain",Frog,
+TML01_20240221_054800_1.pt,"Frog, Owl",Owl,Frog,
+TML01_20240221_054800_10.pt,"Frog, Owl",Owl,Frog,
+TML01_20240221_054800_2.pt,"Frog, Owl",Owl,Frog,
+TML01_20240221_054800_3.pt,"Frog, Owl",Owl,Frog,
+TML01_20240221_054800_4.pt,"Frog, Owl",Owl,Frog,
+TML01_20240221_054800_5.pt,"Frog, Owl",Owl,Frog,
+TML01_20240221_054800_6.pt,"Frog, Owl",Owl,Frog,
+TML01_20240221_054800_7.pt,"Frog, Owl",Owl,Frog,
+TML01_20240221_054800_8.pt,"Frog, Owl",Owl,Frog,
+TML01_20240221_054800_9.pt,"Frog, Owl",Owl,Frog,
+TML01_20240323_000300_1.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+TML01_20240323_000300_2.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+TML01_20240323_000300_3.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+TML01_20240323_000300_4.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+TML01_20240323_000300_5.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+TML01_20240323_000300_6.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+TML01_20240323_000300_7.pt,"Frog, Rain, Wind","Frog, Rain",Wind,
+TML01_20240419_231800_1.pt,"Frog, Insect, Owl",Insect,"Frog, Owl",
+TML01_20240419_231800_10.pt,"Frog, Insect, Owl","Insect, Owl",Frog,
+TML01_20240419_231800_2.pt,"Frog, Insect, Owl","Insect, Owl",Frog,
+TML01_20240419_231800_7.pt,"Frog, Insect, Owl","Insect, Owl",Frog,
+TML01_20240502_201200_1.pt,"Frog, Insect, Rain","Frog, Rain, Wind",Insect,Wind
+TML01_20240502_201200_2.pt,"Frog, Insect, Rain","Frog, Rain",Insect,
+TML01_20240502_201200_3.pt,"Frog, Insect, Rain","Frog, Rain",Insect,
+TML01_20240502_201200_4.pt,"Frog, Insect, Rain","Frog, Rain, Wind",Insect,Wind
+TML01_20240502_201200_5.pt,"Frog, Insect, Rain","Frog, Insect, Rain, Wind",,Wind
+TML01_20240502_201200_6.pt,"Frog, Insect, Rain","Frog, Rain, Wind",Insect,Wind
+TML01_20240502_201200_7.pt,"Frog, Insect, Rain","Frog, Insect, Rain, Wind",,Wind
+TML01_20240502_201200_8.pt,"Frog, Insect, Rain","Frog, Insect, Rain, Wind",,Wind
+TML01_20240502_201200_9.pt,"Frog, Insect, Rain","Frog, Insect, Rain, Wind",,Wind
+TML01_20240505_074500_1.pt,"Aircraft, Cicada, Wind","Cicada, Wind",Aircraft,
+TML01_20240505_074500_10.pt,"Aircraft, Cicada, Wind","Cicada, Wind",Aircraft,
+TML01_20240505_074500_2.pt,"Aircraft, Cicada, Wind","Cicada, Wind",Aircraft,
+TML01_20240505_074500_3.pt,"Aircraft, Cicada, Wind","Cicada, Wind",Aircraft,
+TML01_20240505_074500_4.pt,"Aircraft, Cicada, Wind","Cicada, Wind",Aircraft,
+TML01_20240505_074500_5.pt,"Aircraft, Cicada, Wind","Cicada, Wind",Aircraft,
+TML01_20240505_074500_6.pt,"Aircraft, Cicada, Wind","Cicada, Rain, Wind",Aircraft,Rain
+TML01_20240505_074500_7.pt,"Aircraft, Cicada, Wind","Cicada, Rain, Wind",Aircraft,Rain
+TML01_20240505_074500_8.pt,"Aircraft, Cicada, Wind","Cicada, Rain, Wind",Aircraft,Rain
+TML01_20240505_074500_9.pt,"Aircraft, Cicada, Wind","Cicada, Wind",Aircraft,
+TML01_20240527_180900_1.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240527_180900_2.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240527_180900_3.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240527_180900_4.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240527_180900_5.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240527_180900_6.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240527_180900_7.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240527_180900_8.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240615_120300_8.pt,Cicada,"Cicada, Rain",,Rain
+TML01_20240718_173300_1.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240718_173300_10.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240718_173300_2.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240718_173300_3.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240718_173300_4.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240718_173300_5.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240718_173300_6.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240718_173300_7.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240718_173300_9.pt,"Aircraft, Cicada",Cicada,Aircraft,
+TML01_20240721_161500_1.pt,"Rain, Wind",Rain,Wind,
+TML01_20240721_161500_10.pt,"Rain, Wind",Rain,Wind,
+TML01_20240721_161500_2.pt,"Rain, Wind",Rain,Wind,
+TML01_20240721_161500_3.pt,"Rain, Wind",Rain,Wind,
+TML01_20240721_161500_4.pt,"Rain, Wind",Rain,Wind,
+TML01_20240721_161500_5.pt,"Rain, Wind",Rain,Wind,
+TML01_20240721_161500_6.pt,"Rain, Wind",Rain,Wind,
+TML01_20240721_161500_8.pt,"Rain, Wind",Rain,Wind,
+TML01_20240721_161500_9.pt,"Rain, Wind",Rain,Wind,
+TML01_20240806_165700_1.pt,"Cicada, Wind","Bird, Wind",Cicada,Bird
+TML01_20240806_165700_10.pt,"Cicada, Wind",Wind,Cicada,
+TML01_20240806_165700_2.pt,"Cicada, Wind","Bird, Wind",Cicada,Bird
+TML01_20240806_165700_3.pt,"Cicada, Wind","Bird, Wind",Cicada,Bird
+TML01_20240806_165700_7.pt,"Cicada, Wind","Bird, Wind",Cicada,Bird
+TML01_20240806_165700_8.pt,"Cicada, Wind","Bird, Wind",Cicada,Bird
+TML01_20240806_165700_9.pt,"Cicada, Wind","Bird, Wind",Cicada,Bird
+TML01_20240807_150900_1.pt,"Cicada, Rain","Cicada, Insect, Rain",,Insect
+TML01_20240807_190300_1.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+TML01_20240807_190300_10.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+TML01_20240807_190300_2.pt,"Frog, Insect, Owl","Aircraft, Frog, Insect",Owl,Aircraft
+TML01_20240807_190300_3.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+TML01_20240807_190300_4.pt,"Frog, Insect, Owl","Aircraft, Frog, Insect",Owl,Aircraft
+TML01_20240807_190300_5.pt,"Frog, Insect, Owl","Aircraft, Frog, Insect",Owl,Aircraft
+TML01_20240807_190300_6.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+TML01_20240807_190300_7.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+TML01_20240807_190300_8.pt,"Frog, Insect, Owl","Aircraft, Frog, Insect",Owl,Aircraft
+TML01_20240807_190300_9.pt,"Frog, Insect, Owl","Frog, Insect",Owl,
+TML01_20240825_191200_1.pt,"Frog, Insect, Owl, Rain","Frog, Insect, Rain",Owl,
+TML01_20240825_191200_10.pt,"Frog, Insect, Owl, Rain","Frog, Insect, Rain",Owl,
+TML01_20240825_191200_2.pt,"Frog, Insect, Owl, Rain","Frog, Insect, Rain",Owl,
+TML01_20240825_191200_3.pt,"Frog, Insect, Owl, Rain","Frog, Insect, Rain",Owl,
+TML01_20240825_191200_4.pt,"Frog, Insect, Owl, Rain","Frog, Insect, Rain",Owl,
+TML01_20240825_191200_5.pt,"Frog, Insect, Owl, Rain","Frog, Insect, Rain",Owl,
+TML01_20240825_191200_6.pt,"Frog, Insect, Owl, Rain","Frog, Insect, Rain",Owl,
+TML01_20240825_191200_7.pt,"Frog, Insect, Owl, Rain","Frog, Insect, Rain",Owl,
+TML01_20240825_191200_8.pt,"Frog, Insect, Owl, Rain","Frog, Insect, Rain",Owl,
+TML01_20240825_191200_9.pt,"Frog, Insect, Owl, Rain","Frog, Insect, Rain",Owl,
