@@ -34,7 +34,7 @@ from pathlib import Path
 import numpy as np
 import torch
 import torch.nn as nn
-from torch.cuda.amp import GradScaler, autocast
+from torch.amp   import GradScaler, autocast   # 新版 API，避免 FutureWarning
 from torch.optim import AdamW
 from torch.utils.tensorboard import SummaryWriter
 from tqdm import tqdm
@@ -239,7 +239,7 @@ def train_one_epoch(
 
         optimizer.zero_grad()
 
-        with autocast(enabled=use_amp):
+        with autocast('cuda', enabled=use_amp):
             logits = model(fbank)                        # [B, num_classes]
             loss   = criterion(logits, labels)
 
@@ -289,7 +289,7 @@ def validate(model, loader, criterion, device, epoch, label_names, use_amp, writ
         fbank  = fbank.to(device,  non_blocking=True)
         labels = labels.to(device, non_blocking=True)
 
-        with autocast(enabled=use_amp):
+        with autocast('cuda', enabled=use_amp):
             logits = model(fbank)
             loss   = criterion(logits, labels)
 
@@ -430,7 +430,7 @@ def main():
         warmup_epochs = args.warmup_epochs,
         total_epochs  = args.epochs,
     )
-    scaler    = GradScaler(enabled=use_amp)
+    scaler    = GradScaler('cuda', enabled=use_amp)  # 新版 API
     criterion = SmoothBCEWithLogitsLoss(eps=args.label_smooth)
     logger.info(f"[Loss] SmoothBCE eps={args.label_smooth}")
 
@@ -441,13 +441,43 @@ def main():
     if args.resume and os.path.exists(args.resume):
         logger.info(f"Resuming from: {args.resume}")
         state = torch.load(args.resume, map_location=device, weights_only=False)
+
+        # ― Model weights（必定載入）
         model.load_state_dict(state["model_state"])
-        optimizer.load_state_dict(state["optimizer"])
-        if state.get("scheduler"):
-            scheduler.load_state_dict(state["scheduler"])
+        logger.info("[Resume] Model weights loaded.")
+
+        # ― Optimizer（若不符則跳過）
+        # last.pt 可能是舊版 optimizer（無 LLRD，1 param group）存的
+        # 新版 LLRD optimizer 有 14 param groups，load_state_dict 會 RuntimeError
+        optimizer_ok = False
+        try:
+            optimizer.load_state_dict(state["optimizer"])
+            optimizer_ok = True
+            logger.info("[Resume] Optimizer state loaded.")
+        except (ValueError, RuntimeError, KeyError) as e:
+            logger.warning(
+                f"[Resume] ⚠️  Optimizer state 不符（{e}）。"
+                f"使用新版 LLRD optimizer，LR 從正確 epoch 重新 warmup。"
+            )
+
+        # ― Scheduler
+        if optimizer_ok and state.get("scheduler"):
+            try:
+                scheduler.load_state_dict(state["scheduler"])
+                logger.info("[Resume] Scheduler state loaded.")
+            except Exception:
+                logger.warning("[Resume] Scheduler state 不符，將快轉到正確 epoch。")
+                optimizer_ok = False
+
+        # ― 若 optimizer/scheduler 都是新的，快轉 scheduler 到正確 epoch
         start_epoch = state.get("epoch", 0) + 1
-        best_map    = state.get("best_map", 0.0)
-        logger.info(f"Resumed at epoch {start_epoch}, best_mAP={best_map:.4f}")
+        if not optimizer_ok:
+            for _ in range(start_epoch):
+                scheduler.step()
+            logger.info(f"[Resume] Scheduler fast-forwarded to epoch {start_epoch}.")
+
+        best_map = state.get("best_map", 0.0)
+        logger.info(f"[Resume] 從 epoch {start_epoch} 繼續，best_mAP={best_map:.4f}")
 
     # ── TensorBoard ───────────────────────────────────────
     os.makedirs(args.tensorboard_dir, exist_ok=True)

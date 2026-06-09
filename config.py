@@ -82,9 +82,9 @@ NUM_MEL_BINS  = 128    # frequency bins
 # Batch size
 # - freeze encoder:     建議 64（VRAM ~6 GB）
 # - full fine-tune:     建議 16~32（VRAM ~10~16 GB）
-BATCH_SIZE     = 32
-NUM_WORKERS    = 4       # 注意：CACHE_TO_RAM=True 且 Windows 環境時，build_dataloader 會自動強制為 0（防止 spawn 複製 RAM cache 造成 OOM）
-CACHE_TO_RAM   = True    # True = 啟動時將所有 spectrogram 預載入 RAM（適合 HDD + RAM ≥ 16GB）
+BATCH_SIZE     = 16      # batch=32 會把 RTX 4060 8.6GB VRAM 打滿（attention 機制在 12 層共需 ~6GB）
+NUM_WORKERS    = 4       # HDD 環境：4 workers 擐塡 CPU-GPU 流水線
+CACHE_TO_RAM   = False   # 關閉 RAM 全量預載，避免堆疊對 VRAM 造成額外壓力
 PIN_MEMORY     = True
 
 # Learning rate

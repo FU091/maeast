@@ -119,7 +119,8 @@ class MAEASTDataset(Dataset):
         self.spectrogram_dir = spectrogram_dir
         self.target_length   = target_length
         self.is_train        = is_train
-        self._ram_cache      = None  # {pt_path: Tensor(float16)}
+        self._ram_tensor     = None  # Tensor[N, T, F] float16，share_memory_()
+        self._ram_index      = None  # {pt_path: int} 路徑 → tensor 行號
 
         # ── 讀取 JSON ──────────────────────────────────────
         if not os.path.exists(json_path):
@@ -149,45 +150,83 @@ class MAEASTDataset(Dataset):
                 "[dataset] No samples found! Check SPECTROGRAM_DIR and JSON paths."
             )
 
-        # ── RAM 全量預加載 ──────────────────────────────────
+        # ── RAM 全量預加載（Shared Memory 版）──────────────────
         if cache_to_ram:
             self._load_all_to_ram()
 
-    # ── RAM 全量預加載 ─────────────────────────────────────
     def _load_all_to_ram(self):
         """
-        將所有 .pt 檔以 float16 格式載入系統 RAM。
-        float16 每筆約 0.26 MB，20,000 筆 ≈ 5.2 GB。
-        讀取時再轉 float32（不佔額外記憶體，torch 在原地轉換）。
+        將所有 .pt 以 float16 堆疊成一個大 Tensor，
+        並呼叫 .share_memory_() 讓所有 DataLoader worker
+        共享同一塊實體記憶體（不複製），解決 Windows OOM 問題。
+
+        記憶體佔用：
+          float16: N × 1024 × 128 × 2 bytes
+          20,799 筆 ≈ 5.45 GB（只有這一份，worker 不會複製）
         """
         from tqdm import tqdm
         total = len(self.data_list)
         logger.info(
-            f"[dataset] 🔄 RAM 全量預加載啟動：{total} 筆檔案，"
-            f"預估佔用 RAM 約 {total * 0.26 / 1024:.1f} GB（float16）"
+            f"[dataset] 🔄 RAM 預載啟動（shared tensor 模式）：{total} 筆，"
+            f"預估 {total * 1024 * 128 * 2 / 1e9:.2f} GB（float16，worker 共享不複製）"
         )
-        self._ram_cache = {}
-        failed = 0
 
-        for item in tqdm(self.data_list, desc="預載到 RAM", unit="file", dynamic_ncols=True):
+        fbank_list = []
+        index_map  = {}   # pt_path → row index in stacked tensor
+        failed     = 0
+        T, F       = self.target_length, 128
+
+        for item in tqdm(self.data_list, desc="預載 RAM", unit="file", dynamic_ncols=True):
             pt_path = item["_path"]
             try:
                 data_dict = torch.load(pt_path, map_location="cpu", weights_only=False)
                 fbank = data_dict["x"] if "x" in data_dict else data_dict
                 if isinstance(fbank, np.ndarray):
                     fbank = torch.from_numpy(fbank)
-                # 用 float16 存 RAM，節省約一半記憶體
-                self._ram_cache[pt_path] = fbank.half()
+                fbank = fbank.half()   # → float16
+
+                # 在預載時做長度對齊，__getitem__ 就不用再做
+                n = fbank.shape[0]
+                if n > T:
+                    fbank = fbank[:T, :]
+                elif n < T:
+                    pad   = torch.zeros(T - n, F, dtype=torch.float16)
+                    fbank = torch.cat([fbank, pad], dim=0)  # [T, F]
+
+                index_map[pt_path] = len(fbank_list)
+                fbank_list.append(fbank)
+
             except Exception as e:
                 logger.warning(f"[dataset] 預載失敗，略過: {pt_path}: {e}")
                 failed += 1
 
-        loaded  = len(self._ram_cache)
-        ram_mb  = loaded * 1024 * 128 * 2 / 1e6   # float16 = 2 bytes
+        # ― 堆疊成單一 Tensor
+        self._ram_tensor = torch.stack(fbank_list)   # [N, T, F] float16
+
+        # ⚠️ 立即釋放個別 tensor list（節省 ~5.4 GB RAM）
+        # torch.stack() 已把資料複製進新 Tensor，list 可以安全刪除
+        del fbank_list
+        import gc; gc.collect()
+
+        # ― 放入 Shared Memory（worker 共享，不複製）
+        self._ram_tensor.share_memory_()
+        self._ram_index = index_map
+
+        ram_gb = self._ram_tensor.element_size() * self._ram_tensor.nelement() / 1e9
         logger.info(
-            f"[dataset] ✅ RAM 預載完成：{loaded}/{total} 筆成功"
-            f"（{failed} 筆失敗），佔用 RAM ≈ {ram_mb:.0f} MB"
+            f"[dataset] ✅ RAM 預載完成：{len(index_map)}/{total} 筆成功"
+            f"（{failed} 筆失敗），Tensor shape={tuple(self._ram_tensor.shape)}，"
+            f"佔用 RAM ≈ {ram_gb:.2f} GB（shared）"
         )
+
+        # ― Pre-warm：強制 OS 把所有 page 載入實體 RAM
+        # 避免 DataLoader worker 第一次讀取時逐頁觸發 Page Fault
+        # （每次 Page Fault 在 HDD 系統下可達 10+ ms，共 ~130 萬 pages）
+        logger.info("[dataset] 🔥 Pre-warming shared tensor pages（約 3-10 秒）...")
+        # 用 float32 累加避免 float16 溢位（float16 max=65504，N元素加總容易發生 inf）
+        _ = self._ram_tensor.sum(dtype=torch.float32).item()
+        del _
+        logger.info("[dataset] ✅ Pre-warm 完成，training 期間不再有 Page Fault")
 
     # ── Path resolution ─────────────────────────────────────
     def _resolve_path(self, json_wav: str) -> str:
@@ -210,14 +249,17 @@ class MAEASTDataset(Dataset):
         pt_path  = datum["_path"]
 
         try:
-            # ── RAM Cache 優先（若已預載）────────────────────
-            if self._ram_cache is not None:
-                if pt_path not in self._ram_cache:
-                    # 預載時失敗的檔案 → 回退到磁碟讀取
-                    raise FileNotFoundError(f"[dataset] Not in RAM cache: {pt_path}")
-                fbank = self._ram_cache[pt_path].float()  # float16 → float32（零複製）
+            # ── Shared RAM Tensor 優先（若已預載）─────────────
+            if self._ram_tensor is not None:
+                row = self._ram_index.get(pt_path)
+                if row is None:
+                    raise FileNotFoundError(f"[dataset] Not in RAM tensor: {pt_path}")
+                # shared tensor slice → float32（worker 直接讀共享記憶體，零複製）
+                fbank = self._ram_tensor[row].float()   # [T, F] float32
+                # 長度對齊已在預載時完成，直接回傳
+                return fbank, datum
             else:
-                # ── 磁碟讀取（未啟用 RAM cache）──────────────
+                # ── 磁碟讀取（未啟用 RAM cache）──────────
                 data_dict = torch.load(pt_path, map_location="cpu", weights_only=False)
                 fbank = data_dict["x"] if "x" in data_dict else data_dict
                 if isinstance(fbank, np.ndarray):
@@ -350,20 +392,10 @@ def build_dataloader(
         cache_to_ram    = cache_to_ram,
     )
 
-    # ── Windows OOM 防護 ──────────────────────────────────────────
-    # Windows DataLoader 使用 spawn 模式，每個 worker 進程都會收到
-    # dataset 物件的完整複製（包含整個 RAM cache）。
-    # 範例：4 workers × 5.2 GB cache = 額外 20.8 GB → 32 GB RAM 直接爆炸。
-    # RAM cache 模式下資料已在主記憶體，num_workers=0 不再有 I/O 瓶頸，
-    # 主線程直接從 RAM 取資料即可，不需要 worker 子進程。
-    if cache_to_ram and os.name == "nt" and num_workers > 0:
-        logger.warning(
-            f"[dataset] ⚠️  Windows spawn 模式偵測到 cache_to_ram=True + num_workers={num_workers}。"
-            f"為防止 worker 複製 RAM cache 造成 OOM，自動強制 num_workers=0。"
-        )
-        num_workers = 0
-
-    # num_workers 可能已被上方 OOM 防護覆寫為 0，需在此之後才計算 prefetch
+    # ― share_memory_() 已解決 Windows OOM 問題：
+    #   dataset._ram_tensor 是 shared tensor，worker spawn 時
+    #   PyTorch 只傳遞 handle（幾個 bytes），不複製 5+ GB 資料。
+    #   因此可以安全使用 num_workers > 0。
     prefetch = 2 if num_workers > 0 else None
 
     loader = DataLoader(
@@ -373,7 +405,7 @@ def build_dataloader(
         num_workers        = num_workers,
         pin_memory         = pin_memory,
         drop_last          = is_train,
-        persistent_workers = (num_workers > 0),  # 避免每 epoch 重啟 worker process
+        persistent_workers = (num_workers > 0),
         prefetch_factor    = prefetch,
     )
     return loader

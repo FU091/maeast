@@ -1,0 +1,14 @@
+Class,Train_Support,Test_Recall
+Bird,1951,0.912
+Machine,1797,0.4196
+Aircraft,1744,0.4109
+Wind,1732,0.9061
+Rain,1660,1.0
+Speech,1152,0.0
+Cicada,692,0.8158
+Frog,380,0.7966
+Owl,213,0.8033
+Insect,113,0.5
+Bat,109,0.6923
+MammalLow_山羌,69,0.0
+MammalLow_狗,41,0.0
