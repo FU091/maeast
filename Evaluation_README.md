@@ -61,6 +61,61 @@
 
 ---
 
+## 4. 類別域值優化與對比評估工具 (Threshold Optimization & Evaluation)
+
+本工具用於為各個聲音類別尋找在 PR 曲線上的最優機率閾值（Threshold），以最大化其 F1-score，並提供與基準（0.50）的詳細性能對比評估。
+
+### 4.1 搜尋最佳域值
+- **腳本路徑**: `./find_optimal_thresholds.py`
+- **輸入資料來源 (Input)**:
+  1. `val.json` (驗證集標籤，路徑: `./json/val.json`)
+  2. `best.pt` (V2 最佳權重)
+- **產出檔案 (Output)**:
+  - `optimal_thresholds_v2.json`: 記錄各聲音類別之最佳域值及預期指標 (Precision, Recall, F1)。
+- **執行方式 (WSL)**:
+  ```bash
+  conda activate mae_ast
+  python find_optimal_thresholds.py \
+      --gt_json /mnt/e/ssast_hub/all_mammal_merged/replaced/all_merged_val.json \
+      --checkpoint /mnt/e/MAE_AST/MAE_output_v2/checkpoints/best.pt \
+      --output_json optimal_thresholds_v2.json
+  ```
+
+### 4.2 運行基準對比評估
+- **腳本路徑**: `./eval_val_optimized.py`
+- **輸入資料來源 (Input)**:
+  1. `val.json` (驗證集標籤)
+  2. `best.pt` (V2 最佳權重)
+  3. `optimal_thresholds_v2.json` (優化後域值 JSON)
+- **產出結果 (Output)**:
+  - 終端機詳細對比表格（包含 AP, 基準 0.50 性能, 優化域值後性能, F1 差異）。
+  - `val_metrics_optimized.csv`: 儲存詳細指標對比的 CSV。
+- **執行方式 (WSL)**:
+  ```bash
+  conda activate mae_ast
+  python eval_val_optimized.py \
+      --ckpt /mnt/e/MAE_AST/MAE_output_v2/checkpoints/best.pt \
+      --gt_json /mnt/e/ssast_hub/all_mammal_merged/replaced/all_merged_val.json \
+      --opt_json optimal_thresholds_v2.json \
+      --save_csv val_metrics_optimized.csv
+  ```
+
+### 4.3 使用優化域值進行推論
+在 `inference.py` 中帶入 `--thresholds_json` 即可套用優化後的類別域值：
+- **執行方式 (WSL)**:
+  ```bash
+  conda activate mae_ast
+  # 批次推理資料夾
+  python inference.py \
+      --input /path/to/your/new_pt_folder \
+      --batch \
+      --checkpoint /mnt/e/MAE_AST/MAE_output_v2/checkpoints/best.pt \
+      --thresholds_json optimal_thresholds_v2.json \
+      --output_json predictions_v2_optimized.json
+  ```
+
+---
+
 ## 備註 (Notes)
 - 繪圖時如果遇到中文字型 (例如：`MammalLow_山羌`) 無法正常顯示的問題，這是因為 Linux (WSL) 環境預設缺少支援中文的字型 (如 DejaVu Sans 不包含 CJK 字元)。這不會影響圖表的數值與結構，僅會讓類別標籤顯示為方塊。若需要完美顯示，需在 WSL 中安裝中文字型 (`sudo apt-get install fonts-noto-cjk`)，並於 matplotlib 設定中指定字型。
 - 腳本的輸出圖表預設儲存在專案根目錄下。
